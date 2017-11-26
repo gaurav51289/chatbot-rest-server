@@ -3,7 +3,7 @@ import time, calendar
 from flask_api import FlaskAPI
 from flask import request, jsonify
 
-from remote_api_calls import getCategories
+from remote_api_calls import getCategories, getProbabilityOfCandidate
 
 
 
@@ -18,6 +18,10 @@ def create_app():
 
                 que_cats = getCategories(question)
                 print(que_cats)
+
+                dummyCandidate = 'This is a dummy candidate answer.'
+                prob1 = getProbabilityOfCandidate(question, dummyCandidate)
+                print(prob1)
 
                 response = jsonify({
                     'question': question,

@@ -1,0 +1,24 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[dev-packages]
+
+
+
+[packages]
+
+flask = "==0.12.2"
+flask-api = "==1.0"
+"html5lib" = "==0.9999999"
+itsdangerous = "==0.24"
+"jinja2" = "==2.10"
+markdown = "==2.6.9"
+markupsafe = "==1.0"
+protobuf = "==3.4.0"
+pyyaml = "==3.12"
+werkzeug = "==0.12.2"
+requests = "*"
