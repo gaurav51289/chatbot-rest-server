@@ -151,8 +151,8 @@ def create_app():
                 anslist = []
                 for ans in candidateAnswers:
                     ansc = cleanText(ans)
-                    print("ANSWER cleaned: " + ansc)
-                    print("ANSWER raw: " + ans)
+                    # print("ANSWER cleaned: " + ansc)
+                    # print("ANSWER raw: " + ans)
                     prob = getProbabilityOfCandidate(question, ansc)
                     print("Probablity: " + json.dumps(prob))
                     anslist.append((float(prob['probability']), ans))

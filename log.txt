@@ -1,44 +1,3 @@
-QUESTION: What does “sudo apt-get update” do? I am wondering what sudo apt-get update does? What does it update?
-('unity', 'grub2', 'permissions', 'boot', 'windows')
-set()
-('unity', 'grub2', 'permissions', 'boot')
-('unity', 'grub2', 'permissions', 'windows')
-('unity', 'grub2', 'boot', 'windows')
-('unity', 'permissions', 'boot', 'windows')
-('grub2', 'permissions', 'boot', 'windows')
-set()
-('unity', 'grub2', 'permissions')
-('unity', 'grub2', 'boot')
-('unity', 'grub2', 'windows')
-('unity', 'permissions', 'boot')
-('unity', 'permissions', 'windows')
-('unity', 'boot', 'windows')
-('grub2', 'permissions', 'boot')
-('grub2', 'permissions', 'windows')
-('grub2', 'boot', 'windows')
-('permissions', 'boot', 'windows')
-set()
-('unity', 'grub2')
-('unity', 'permissions')
-('unity', 'boot')
-('unity', 'windows')
-('grub2', 'permissions')
-('grub2', 'boot')
-('grub2', 'windows')
-('permissions', 'boot')
-('permissions', 'windows')
-('boot', 'windows')
-{522246, 516107, 770062, 452631, 370718, 460830, 633895, 649256, 629803, 177196, 703534, 636980, 333877, 828471, 725048, 592955, 349243, 307261, 555069, 742461, 736317, 128066, 430147, 820292, 155717, 159819, 739404, 843854, 232526, 662610, 17493, 931929, 755802, 313435, 858202, 653402, 728155, 843871, 755808, 154722, 558180, 244844, 597101, 521327, 339068, 375936, 332935, 776328, 551053, 657550, 594061, 138385, 180375, 413848, 394391, 719002, 465052, 294045, 370846, 862368, 738466, 336037, 22698, 325805, 920754, 442549, 342198, 475322, 350400, 449729, 822482, 680148, 231637, 321749, 202966, 424151, 736469, 816342, 324824, 316638, 370912, 267488, 576737, 693475, 654568, 271593, 663786, 314602, 412907, 797932, 643310, 148718, 687348, 483574, 270591, 633088, 465153, 160004, 124164, 226569, 627980, 448782, 657679, 223504, 120082, 151830, 16663, 689438, 253217, 258339, 633124, 417061, 701735, 84265, 661805, 91437, 388397, 799025, 638263, 723263, 667967, 571712, 275776, 685379, 405833, 229708, 830801, 942420, 825686, 235862, 83286, 503126, 177496, 666970, 572771, 506216, 371049, 480619, 595308, 145773, 245099, 186736, 540016, 462199, 320890, 161151, 81283, 371078, 544140, 179596, 758161, 142740, 205207, 913815, 752023, 888216, 828825, 333213, 45470, 350628, 657832, 711084, 619948, 236976, 514483, 747956, 822708, 323003, 719299, 258501, 593350, 266696, 697803, 756174, 917970, 247250, 282068, 472532, 623073, 504289, 181729, 488934, 656876, 833006, 920047, 282098, 170483, 97780, 607736, 552441, 536059, 120317, 923136, 378369, 388609, 800261, 659976, 222730, 365067, 508430, 576015, 555534, 636435, 207380, 609817, 112156, 833054, 35359, 802339, 824871, 560683, 349740, 908844, 371248, 742960, 329274, 338491, 144961, 772680, 905802, 732747, 791119, 840278, 582231, 408150, 497239, 50777, 721501, 751197, 667233, 610914, 906849, 645732, 485989, 327265, 381543, 511589, 98922, 696939, 344688, 474737, 581233, 418420, 378484, 385655, 83575, 503418, 201340, 749181, 283262, 380544, 634496, 586374, 624263, 815754, 134794, 744076, 723598, 601743, 501394, 919189, 593560, 651929, 300697, 236189, 544414, 328351, 221863, 662183, 858791, 679591, 872110, 452271, 801458, 386745, 420539, 825019, 873149, 516800, 357057, 519874, 360130, 941763, 745156, 762568, 866000, 144081, 342737, 207571, 536279, 710360, 779996, 721632, 194274, 645860, 522981, 512742, 538341, 613100, 872173, 92910, 845558, 824055, 262904, 633592, 311032, 233211, 215805, 781054, 332542, 389888, 538367, 814851, 633604, 400141, 575245, 243472, 481057, 452387, 790313, 553775, 217904, 642867, 74549, 599864, 386877, 222015, 481088, 674627, 381768, 296779, 753486, 751442, 235350, 574295, 108375, 297825, 285538, 694114, 122723, 462694, 846695, 350054, 486250, 408426, 481138, 580469, 599925, 223096, 381818, 595834, 515969, 558978, 245634, 458627, 718725, 225160, 579464, 186250, 703373, 713615, 229266, 660376, 385945, 575395, 164775, 566185, 869293, 626608, 336817, 815027, 484277, 234422, 709557, 380854, 327607, 331704, 487355, 104379, 617409, 1986, 785347, 553924, 375752, 875464, 293834, 288713, 746444, 484301, 349133, 811984, 717777, 905171, 597974, 435160, 617433, 450525, 844766, 590815, 693214, 398305, 229343, 848871, 546791, 344042, 604139, 758769, 900081, 478196, 879605, 629750, 711669, 268276, 598006, 345082, 544761, 163835, 552957}
-ANSWER cleaned: installed linux want remove install window insert dvd window 7 format full hard disk remove ubuntu install window 7 o installed recomend use osuninstaller need boot live cd ubuntu install osuninstaller remove o want delete case ubuntu
-ANSWER raw: if you have installed linux only and want to remove it to install windows:
-
-insert the dvd of windows 7 and format the full hard disk to remove ubuntu and install windows 7
-
-if you have both os installed i recomend you to use os-uninstaller
-
-you just need to boot from a live cd with ubuntu, install os-uninstaller and then remove the os you want to delete (in this case ubuntu)
-
-
 QUESTION: What does sudo apt-get update do? I am wondering what sudo apt-get update does? What does it update?
 ('unity', 'grub2', 'permissions', 'boot', 'windows')
 set()
@@ -81,3 +40,1357 @@ you just need to boot from a live cd with ubuntu, install os-uninstaller and the
 
 
 Probablity: {"probability": "0.407357"}
+ANSWER cleaned: easiest way set ubuntu hard drive firstprimary drive terminal run sudo grubupdate automatically recognize window partition drive add automatically also change primary boot partition etcdefaultgrub
+ANSWER raw: easiest way, set the ubuntu hard drive as your first/primary drive. then in terminal run 
+sudo grub-update 
+that should automatically recognize the other windows partitions on the other drives and add them automatically.
+you can also change the primary boot partition in: /etc/default/grub
+
+Probablity: {"probability": "0.00787985"}
+ANSWER cleaned: use bootrepair solve issue bootloader install using following command sudo addaptrepository ppa yannubuntubootrepair sudo aptget update sudo aptget install bootrepair sudo aptget install bootrepair bootrepair even manage grub bootloader entry using bcdedit neosmart bcdedit http neosmartnetwikibcdedit
+ANSWER raw: use boot-repair to solve the issues of bootloader.
+install it by using following command:
+sudo add-apt-repository ppa:yannubuntu/boot-repair
+sudo apt-get update
+sudo apt-get install boot-repair
+
+or
+sudo apt-get install -y boot-repair && boot-repair
+
+you can even manage your all grub bootloader entries using bcdedit by neosmart. 
+bcdedit:
+https://neosmart.net/wiki/bcdedit/
+
+Probablity: {"probability": "0.0043025"}
+ANSWER cleaned: solve problem must follow step window let choose window ubuntu choose ubuntu computer exit o choosing screen restart computer try boot ubuntu holding shift key keyboard appear screen grub boot loader ubuntu almost empty press e key keyboard load boot command ubuntu pressing e key computer display set command grub use booting ubuntu boot command try find line contains ro quiet splash change ro word rw read rw quiet splash bottom screen key press boot crtlx f10 press key grub boot ubuntu modified boot command however rw word wo nt saved next boot ro need edit etcdefaultgrub file find boot command grub us boot ubuntu type sudo gedit etcdefaultgrub terminal need use sudo able edit file otherwise readonly find line look like grubcmdlinelinuxdefault quiet splash change grubcmdlinelinuxdefault rw quiet splash save file go back terminal type sudo updategrub ubuntu generate new bootgrubgrubcfg file possible edit file directly editing etcdefaultgrub generating grubcfg recommended reboot computer find boot normally
+ANSWER raw: i did it. to solve this problem you must follow these steps:
+
+when windows lets you choose between windows and ubuntu choose ubuntu
+when the computer exits from the os choosing screen restart your computer, and try to boot ubuntu while holding the shift key on your keyboard
+then there will appear a screen from grub (boot loader for ubuntu) and it will be almost empty. press 'e' key on your keyboard (to load boot commands for ubuntu)
+after pressing 'e' key computer will display a set of commands that grub use for booting ubuntu
+in those boot commands try to find the line that contains 'ro quiet splash' and change the 'ro' word to 'rw'. it should now read rw quiet splash.
+down at the bottom of the screen there is a key to press to boot (for me it was crtl+x or f10), press that key and grub will boot ubuntu with your modified boot commands.
+
+however the 'rw' word won't be saved and at the next boot it will be 'ro' again so you 
+need to edit the /etc/default/grub file were you will find same boot commands that grub uses to boot ubuntu.
+type sudo gedit /etc/default/grub in terminal. you need to use sudo to be able to edit the file, which otherwise will be read-only. 
+find the line that looks like this:
+grub_cmdline_linux_default="quiet splash"
+change it to this:
+grub_cmdline_linux_default="rw quiet splash"
+now save the file and go back to terminal. type sudo update-grub. ubuntu will now generate a new /boot/grub/grub.cfg file for you. it is possible to edit this file directly, but editing /etc/default/grub and then generating grub.cfg is recommended. if you reboot your computer, you should find that it boots normally again.
+
+Probablity: {"probability": "9.22196e-06"}
+ANSWER cleaned: boot repair log clearly show ntfs partition intact devsda1 devsda4 devsda5 except latest version fdisk useless gpt disk show one partition typically partition 1 report gparted showing one partition troubling nt shown actual program output could misinterpreted something might want post output sudo gdisk l devsda andor sudo parted devsda print verify partition present probably need install gdisk package name assuming boot repair log accurate uptodate guess got boot loader problem partition problem description nature problem unclear though broadly speaking several solution commonly work disable secure boot mentioned disabling safeboot question meant secure boot probably already done though see brief description general information unfortunately detail vary greatly computer update firmware check manufacturer available firmware update fix bug rampant efi world recommend trying next two option put try refind andor boot repair updating firmware test perhaps install refind refind boot manager often help try usb flash drive cdr image available refind downloads page without making change computer boot linux window installing debian package refind fix problem caveat though hp known efi bug may require jumping extra hoop get refind launch automatically see detail use boot repair boot repair often fix boot problem however since already tried nt help would nt hold much hope one additional thing worth trying though click advanced option check box rename replace window boot loader file helpful buggy efis hp known refuse launch boot loader except filename window us boot loader
+ANSWER raw: your boot repair log clearly shows that your ntfs partitions are intact (they're /dev/sda1, /dev/sda4, and /dev/sda5. except for the very latest version, fdisk is useless on gpt disks, and it will show just one partition (typically partition #1). your report of gparted showing just one partition is more troubling, but you haven't shown the actual program output, so it could be you've misinterpreted something. you might want to post the output of sudo gdisk -l /dev/sda and/or sudo parted /dev/sda print to verify that your partitions are present. (you'll probably need to install gdisk from a package of the same name.)
+assuming that your boot repair log is accurate and up-to-date, my guess is that you've got a boot loader problem, not a partition problem. your description of the nature of this problem is unclear, though. broadly speaking, several solutions commonly work:
+
+disable secure boot -- you mentioned disabling "safeboot" in your question, so if you meant secure boot you've probably already done this. if not, though, see this brief description for some general information. unfortunately, details vary greatly between computers.
+update your firmware -- check with the manufacturer for any available firmware updates. these can fix bugs, which are rampant in the efi world. i recommend doing this before trying the next two options; or if you put it off, try refind and/or boot repair again after updating the firmware.
+test (and perhaps install) refind -- my refind boot manager can often help. you can try the usb flash drive or cd-r image (available from the refind downloads page) without making any changes to your computer. if that boots both linux and windows, installing the debian package in refind should fix the problem. (a caveat, though: some hps have known efi bugs that may require jumping through some extra hoops to get refind to launch automatically. see here for details.)
+use boot repair -- boot repair can often fix boot problems; however, since you've already tried it and it didn't help, i wouldn't hold out too much hope. one additional thing is worth trying, though: click the advanced option and check the box to rename and replace the windows boot loader file. this is helpful on buggy efis, such as some hps are known to have, that refuse to launch boot loaders except from the filename that windows uses for its boot loader.
+
+
+Probablity: {"probability": "3.91469e-06"}
+ANSWER cleaned: sure window known disregard installation operating system probably need edit window 7 boot configuration data bcd add entry ubuntu easiest way use bcd editor like easybcd wwwsoftpediacom installing window install easybcd add entry ubuntu make dualboot system still use window boot manager would like use grub boot manager find info reinstalling grub helpubuntucom
+ANSWER raw: sure you can, but windows is known to disregard installations of other operating systems.
+you will probably need to edit the windows 7's boot configuration data (bcd) to add the entry for ubuntu. the easiest way is to use a bcd editor like easybcd: www.softpedia.com
+after installing windows, install easybcd and add the entry for ubuntu.
+this will make a dual-boot system but will still use the windows' boot manager. if you would like to use grub as a boot manager, you can find more info on reinstalling grub here: help.ubuntu.com
+
+Probablity: {"probability": "5.19633e-07"}
+ANSWER cleaned: edit etcdefaultgrub edit file opening terminal executing sudo nano etcdefaultgrub navigate arrow key finished editing file according following instruction press ctrl save ctrl x exit change line grubdefault0 grubdefault grubdefault description o found grub loader start example first option say something like ubuntu 64bit devsda1 would change line grubdefaultubuntu 64bit devsda1 index n 1 nth option first option option 0 second option option 1 window third option change grubdefault2 window second option change grubdefault1 make change etcdefaultgrub run sudo updategrub everything must done root need help changing file elaborate
+ANSWER raw: you should edit /etc/default/grub.
+edit the file by opening a terminal and executing sudo nano /etc/default/grub. navigate with the arrow keys. once you have finished editing the file according the following instructions, press ctrl + o to save, and then ctrl + x to exit.
+change the line grub_default=0 to 'grub_default=' or 'grub_default=.
+the description of your os is found in the grub loader at start up. for example if the first option says something like ubuntu 64bit (on /dev/sda1), then you would change that line to grub_default=ubuntu 64bit (on /dev/sda1).
+the index is n - 1 for the n'th option. so the first option is option 0. the second option is option 1. if windows is the third option, you can change it to grub_default=2. if windows is the second option, you can change it to grub_default=1. 
+after you make the change to /etc/default/grub, run sudo update-grub. everything you do must be done as root. if you need help changing the file i can elaborate. 
+
+Probablity: {"probability": "0.00765263"}
+ANSWER cleaned: yes possible since window 81 already installed start installer ubuntu proceed detect window 81 offer option install ubuntu
+ANSWER raw: yes, it is possible. since you've windows 8.1 already installed, just start the installer of ubuntu and proceed. it should detect windows 8.1 and offer an option to install ubuntu too.
+
+Probablity: {"probability": "1.91838e-05"}
+ANSWER cleaned: window primary partition repair install directly bootable grub possible install logical partition window boot primary partition second installs window normally overwrite boot file existing ntfs primary partition boot flag add installs bcd may able copy bootmgr bootbcd second install edit bcds installs best repaircd flash drive install run repair move boot flag first repair install may specify find installs move boot flag install thing sure good backup first repair tool get m boot loader make second primary ntfs partition set boot flag install 2nd product multibooters picture worth 1000 word vista window biosmbr http wwwmultibooterscoukmultiboothtml
+ANSWER raw: if both windows are in primary partitions, you can repair install to be directly bootable from grub. but not possible if an install is in a logical partition as windows only boots from primary partitions. second installs of windows normally overwrite the boot files in the existing ntfs primary partition with the boot flag. and it adds both installs to its bcd. you may just be able to copy bootmgr & /boot/bcd to second install and edit bcds in both installs. but best to have repaircd or flash drive for each install and run its repairs. you have to move boot flag first and then repair an install. you may have to specify not to find other installs. then move boot flag to other install and do same thing.
+be sure to have good backups first. and repair tools.
+to get each ms to have its own boot loader make a second primary ntfs partition and set its boot flag on, then install the 2nd product in it. multibooters, pictures here worth 1000+ words - vista but all windows with bios/mbr
+http://www.multibooters.co.uk/multiboot.html
+
+Probablity: {"probability": "4.1962e-07"}
+ANSWER cleaned: make sure go beyond 4 primary partition otherwise pc boot make extra partition gparted tool aloww 4 primary partition extended parititions allowed making sufficient space window 8 install window 8 notice window 7 8 listed window boot loader two option add ubuntu window boot loader using easybcd reinstall grub 2 live cd see video click window listed grub 2 type sudo updategrub2 even window listed retry mounting window drive look video updating grub2
+ANSWER raw: here's how to do it:
+
+make sure it will not go beyond the 4 primary partitions, otherwise, your pc will not boot up.
+you can make extra partitions with the gparted tool, but it will not aloww more than 4 primary partitions, (more extended parititions are allowed )
+after making the sufficient space for windows 8 then 
+install windows 8 
+now you notice that only windows 7 and 8 are listed in windows' boot loader 
+now you have two options:
+
+add ubuntu in windows' boot loader by using easybcd
+reinstall grub 2 by with a live cd. to see video  click here 
+after this if your windows in not listed in grub 2 then type sudo update-grub2
+even if windows is not listed retry after mounting your windows drive 
+have a look at this video for updating grub2
+
+
+
+Probablity: {"probability": "2.79663e-06"}
+ANSWER cleaned: problem ppa program yet released version 1510 ubuntu may take time month recompiled wily solution would load vm earlier version ubuntu run winusb earlier version
+ANSWER raw: you're having problems with the ppa because the program has not yet been released for version 15.10 of ubuntu.  it may take some time (months(?)) before it is recompiled for wily.
+a solution would be to load a vm with an earlier version of ubuntu, and run winusb in that earlier version.
+
+Probablity: {"probability": "0.000437817"}
+ANSWER cleaned: tried going ubuntu running boot repair tool may able help hoping deleted window partition per first post put ubuntu 1505 window 81 machine wondering vm way go save issue trouble run ubuntu
+ANSWER raw: have you tried going into ubuntu and running the boot repair tool. this may be able to help out here, but that is hoping you have not deleted the windows partition. as per the first post.
+i have to put ubuntu 15.05 on to a windows 8.1 machine and i am wondering if a vm is the way to go. save all the issues and trouble and run ubuntu in it.
+
+Probablity: {"probability": "0.000551326"}
+ANSWER cleaned: wondering currently viewed best version ubuntu run alongside window 8 relation best version ubuntu window 8 run alongside eachother 2 separate entity grub software deal booting 2nd operating system present system regarding ubuntu use latest long term support ubuntu 1204 latest normal release 1304 either work stable official derivative older still supported release see problem release ubuntu cause trouble dual boot setup issue face related uefi window ubuntu o restricts using operating system
+ANSWER raw: 
+i was wondering what is currently viewed as the best version of ubuntu to run alongside windows 8.
+
+there is no relation between "best version of ubuntu"  and "windows 8" to run alongside eachother. the 2 are separate entities and grub is the software that deals with booting any 2nd or more operating systems present on your system. 
+regarding ubuntu to use...
+
+the latest long term support for ubuntu is 12.04
+the latest normal release is 13.04.
+
+either works and both are stable. so does and is any other official derivative and so does and is any older still supported release.
+i do not see any problems with any of the releases for ubuntu to cause trouble with a dual boot setup. the only issues you will face are related to uefi and windows. ubuntu is not an os that restricts you using the operating system :)
+
+Probablity: {"probability": "0.000106315"}
+ANSWER cleaned: finally got running key boot uefi version installer wipe everything second thing legacy grub installed mbr second hard drive got confused disk name nt notice trying boot one selecting proper one reinstall made happen thank everybody
+ANSWER raw: i finally got it running. the key was to boot the uefi version of the installer. i had to wipe everything.
+the second thing was that there is a legacy grub installed in the mbr of the second hard drive and i got confused about the disk names and didn't notice it was trying to boot from that one. just selecting the proper one after the reinstall made it happen.
+thank you everybody.
+
+Probablity: {"probability": "0.00143766"}
+ANSWER cleaned: recommend borrow live pendrive ubuntu fav distro o friend try installing everything scratch also make one hope help
+ANSWER raw: i recommend that you borrow a live pendrive of ubuntu (or your fav distro or any other os) from your friend and then try installing everything from scratch ... you can also make one for your own. hope this helps
+
+Probablity: {"probability": "0.0250079"}
+ANSWER cleaned: let make sure getting right tried install ubuntu reformatted window recovery partition reformatted part window partition data might well gone would like make window 8 recovery flash drive create window usb recovery drive strange feeling deleting window 8 recovery partition nt problem window 8 savvy know people purpose recover space may ask live cd flash drive wo nt work would recommend booting live version distro use disk tool gparted figure resized know said nt possible may best bet aside reinstalling everything command fdisk l may give u better idea whats going get terminal
+ANSWER raw: so let me make sure i am getting this right, you tried to install ubuntu but you reformatted the windows recovery partition? 
+if you reformatted any part of the windows partition, that data might as well be gone. if you would like to you can make a windows 8 recovery flash drive. you can create a windows usb recovery drive 
+but i have a strange feeling that deleting the windows 8 recovery partition isn't the problem, i am not very windows 8 savvy but i know people do it on purpose to recover space. may i ask why a live cd or flash drive won't work?
+i would recommend booting a live version of any distro and use disk tools or gparted to figure out what you resized. i know you said that wasn't possible but it may be your best bet aside from reinstalling everything.
+the command fdisk -l may give us a better idea whats going on if you can get to terminal.
+
+Probablity: {"probability": "1.175e-06"}
+ANSWER cleaned: definitive since never tested however first mbr irrelevant system except insofar protective mbr part guid partition table gpt boot loader stored file efi system partition esp mounted bootefi linux installation ubuntu store grub esp efiubuntu directory bootefiefiubuntu ubuntu microsoft store boot loader efimicrosoft directory tree esp get dual boot loader treatment want boot window microsoft us one location window 7 window 8 ubuntu would install multiple version ubuntu one boot loader must present menu enable boot either version window theory might able create second esp copy original esp efimicrosoft directory edit file esp limit boot one version window unfortunately nt know enough window boot file give precise instruction fact nt even know would really work might willing go effort could try get window work reinstalling window 7 create second esp disk gparted need shrink partition small amount create new fat32 partition space sure fat32 fat16 give boot flag also recommend giving unique name like win7esp might useful end using refind help identify file browser remove boot flag original esp optionally change type code window 8 partition could set lvm flag gparted instance goal make le likely window 7 installer detect window 8 erase original window 7 partition creating fresh ntfs filesystem give unique name make easier identify reinstall window 7 point window 7 boot directly restore grub default boot manager unsure use boot repair alternatively could install another efi boot manager refind gummiboot linux launch gparted undo partition type code change made earlier reset boot flag original esp changed type code window 8 partition remove flag restore correct type code linux type sudo updategrub get redetect boot loader luck including window boot loader fails may need edit etcgrubd40custom add custom menu could install refind boot manager detect copy window boot loader make promise procedure work also even work may create problem line window nt support one esp per system efi specification say ok though thus future window update reinstallation could end getting confused misbehaving able work around problem temporarily resetting type code one esp removing boot flag gparted procedure nt work sound involved recommend ask window forum since window boot loader configuration window issue linux issue two point afaik ubuntu still giving linux partition type code window us make linux partition show unformatted disk window file browser recommend correcting problem gdisk described neglecting make easy accidentally trash linux installation window window 8 us new fast startup feature incompatible dualbooting even window 7 imperative disable feature described failure disable feature almost certainly result filesystem corruption
+ANSWER raw: this is not definitive, since i've never tested it; however....
+first, the mbr is irrelevant on your system, except insofar as a protective mbr is part of the guid partition table (gpt). your boot loaders are stored as files in the efi system partition (esp), which is mounted at /boot/efi in most linux installations. ubuntu stores grub in the esp's efi/ubuntu directory (that is, /boot/efi/efi/ubuntu from ubuntu), and microsoft stores its boot loader in the efi/microsoft directory tree on the esp. this is why you get the dual boot loader treatment when you want to boot windows -- microsoft uses one location for both windows 7 and windows 8, just as ubuntu would if you were to install multiple versions of ubuntu, so that one boot loader must present a menu to enable you to boot either version of windows.
+in theory you might be able to create a second esp, copy the original esp's efi/microsoft directory to it, and edit files on both esps to limit them to boot just one version of windows. unfortunately, i don't know enough about the windows boot files to give more precise instructions. in fact, i don't even know that it would really work, but it might.
+if you're willing to go to the effort, you could try this to get windows to do most of the work for you by re-installing windows 7:
+
+create a second esp on the disk. in gparted, you'll need to shrink a partition by a small amount, create a new fat32 partition in that space (be sure it's fat32, not fat16), and give it a "boot flag." i also recommend giving it a unique name, like "win7esp." (this might be useful if you end up using refind or to help identify it in file browsers.)
+remove the "boot flag" from the original esp.
+optionally, change the type code on the windows 8 partition. you could set the "lvm flag" on it in gparted, for instance. the goal here is to make it less likely that the windows 7 installer will detect windows 8.
+erase the original windows 7 partition by creating a fresh ntfs filesystem on it. give it a unique name to make it easier to identify.
+re-install windows 7. at this point, windows 7 should boot directly.
+restore grub as your default boot manager. if you're unsure how to do this, you can use boot repair. alternatively, you could install another efi boot manager, such as refind or gummiboot.
+in linux, launch gparted and undo the partition type code changes you made earlier -- reset the boot flag on the original esp and, if you changed the type code on the windows 8 partition, remove that flag to restore it to the correct type code.
+in linux, type sudo update-grub to get it to re-detect boot loaders, with any luck including both of the windows boot loaders. if that fails, you may need to edit /etc/grub.d/40_custom to add a custom menu; or you could install my refind boot manager, which should detect both copies of the windows boot loader.
+
+i make no promises that this procedure will work. also, even if it does work, it may create problems down the line, because windows doesn't support more than one esp per system. (the efi specification says it's ok, though.) thus, a future windows update or re-installation could end up getting confused and misbehaving. you should be able to work around such problems by temporarily resetting the type code on one or the other esp (that is, removing its "boot flag" in gparted).
+if this procedure doesn't work, or if it sounds too involved for you, i recommend you ask about this on a windows forum, since windows boot loader configuration is more of a windows issue than a linux issue.
+two more points:
+
+afaik, ubuntu is still giving its linux partitions the same type code that windows uses. this makes the linux partition(s) show up as unformatted disks in the windows file browser. i recommend correcting this problem with gdisk, as described here. neglecting to do this makes it too easy to accidentally trash your linux installation from windows.
+windows 8 uses a new "fast startup" feature that's incompatible with dual-booting (even with windows 7). it's imperative that you disable this feature, as described here. failure to disable this feature will almost certainly result in filesystem corruption.
+
+
+Probablity: {"probability": "4.87488e-10"}
+ANSWER cleaned: want create virtual machine within current linux install ubuntu already number good choice virtualisation ubuntu link http helpubuntucomcommunityvirtualmachines need following install one virtual machine software system link virtualbox come mind fairly easy one recal xen qemu available copy guest o case copy window need start virtual machine software tell create new virtual machine simple matter following instruction creating machine effect use window install disk install copy window inside running ubuntu term may need get head around host o main o pc ie ubuntu system come turn computer guest o o want run inside virtual machine ie window bridge get host guest communicate share internet connection share hdd may need set samba host serve shared disk window one annoyance running dual boot system ca nt turn currently installed version virtual machine pain mostly buy pc nt get copy o option old window pc sitting around use remotely log onto take bit setting ie time security etc maybe employer provide remote logon pc requirement hope help run problem creation virtual macine check back ubuntu forum link ubuntu wiki page first vm
+ANSWER raw: what you want to do is 'create a virtual machine' within your current linux install.
+if you are on ubuntu you already have a number of good choices for 'virtualisation', here is the ubuntu link https://help.ubuntu.com/community/virtualmachines 
+what you will need is the following.
+install one of the virtual machine software systems from the above link (virtualbox comes to mind as being a fairly easy one, but i recal that xen and qemu are available).
+a copy of your 'guest' os, in your case a copy of windows.
+then you will need to start your virtual machine software and tell it to create a new virtual machine. then it is just a simple matter of following the instructions for creating the machine - in effect you use your windows install disk to install a copy o windows inside your running ubuntu.
+some terms you may need to get your head around.
+host os : for you this is the main os on your pc (ie ubuntu, the system that comes on when you turn on your computer)
+guest os : the os that you want to run inside your virtual machine (ie windows)
+bridge : you can get you host and guest to communicate, share internet connections, share a hdd (you may need to set up samba on your host to 'serve' a shared disk to windows).
+one annoyance.
+if you are running a dual boot system, you can't turn your currently installed version into a virtual machine, which is a pain as mostly when you buy a pc you don't get a copy of the os.
+other option.
+if you have an 'old' windows pc sitting around you can use that and 'remotely log onto it' - it takes a bit of setting up (ie time / security etc). maybe your employer can provide you with a remote logon to a pc for your requirements ?
+hope the above helps you out.
+if you run into any problems during the creation of the virtual macine, check back on the ubuntu forums, here is a link to an ubuntu wiki page first vm
+
+Probablity: {"probability": "0.828303"}
+ANSWER cleaned: easiest way fix would boot window recovery mode via window disk startstartup repairthis automatically install window boot manager also fix boot configuration data also list ubuntu o boot next restart
+ANSWER raw: the easiest way to fix this would be to boot into windows recovery mode [via windows disk ] and startstartup repair.this will automatically install windows boot manager( will also fix your boot configuration data) which will also list ubuntu os to boot from on your next restart.
+
+Probablity: {"probability": "0.138623"}
+ANSWER cleaned: try reinstalling grub hard disk ubuntu live cd least get linux working window nt work boot install medium rescue mode let reinstall bootloader go back reinstall grub
+ANSWER raw: you can try reinstalling grub to the hard disk from the ubuntu live cd.  that should at least get your linux working.  if windows doesn't work, you can boot from it's install media and there should be a rescue mode that will let you reinstall it's bootloader, and then you'll have to go back and reinstall grub again.
+
+Probablity: {"probability": "0.371238"}
+ANSWER cleaned: dd copy image ntfs partition scenario would thin client ubuntu installed nt usb port dvd drive someone poor buy dvd usb pen drive need window right problem faced use winusb copy image hard drive boot install bitch cddvd usb drive present problem freshlight nt install hard disk drive driver image
+ANSWER raw: just dd copy the image to a ntfs partition :)
+the scenario would be a thin client that has ubuntu installed, and doesn't have usb ports or a dvd drive. or someone that is too poor to buy dvds or a usb pen drive but needs windows right now. the problem faced is when you use winusb to copy the image to hard drive, when you boot into install it bitches about no cd/dvd or usb drive present, the problem is freshlight doesn't install hard disk drive drivers to the image. 
+
+Probablity: {"probability": "1.12331e-05"}
+ANSWER cleaned: try run following command terminal sudo updategrub
+ANSWER raw: try to run the following command in the terminal: sudo update-grub.
+
+Probablity: {"probability": "0.779774"}
+ANSWER cleaned: window 8 usually nt turn pc kind hibernate shutdown app starting also amazed launching speed window 8 think load popular apps background
+ANSWER raw: windows 8 usually don't turn off the pc. it does some kind of hibernate shutdown.
+and the about app starting, i'm also amazed about the launching speed of windows 8. i think they load your popular apps in background. 
+
+Probablity: {"probability": "9.4172e-07"}
+ANSWER cleaned: could format window partition mount ubuntu startup time actually want one partition ubuntu file could use gparted live cd delete window partitin resize ubuntu
+ANSWER raw: you could format windows partition and mount it in ubuntu on startup.
+or if you have time and actually want to have one partition that has all ubuntu files you could use gparted live cd and delete the windows partitin then resize ubuntu's.
+
+Probablity: {"probability": "5.36354e-09"}
+ANSWER cleaned: try bootrepair bootrepair simple tool recover access operating system get bootrepair download download iso file go ahead burn cd make sure system set boot cd boot newly created bootrepair cd follow onscreen instruction
+ANSWER raw: you can try boot-repair. boot-repair, simple tool to recover access to your operating systems. to get boot-repair you can download it from here
+once you download the iso file, go ahead and burn it to a cd, then make sure that your system is set to boot from cd. boot from the newly created boot-repair cd, and follow the on-screen instructions.
+
+Probablity: {"probability": "0.00117155"}
+ANSWER cleaned: slowness may due fact using intel hd graphic linux good 3d graphic support intel chip also 1204 compiz eats lot memory use 64 bit ubuntu either gnome 3 cinnamon desktop graphic effect use le amount memory compiz want use unity2d faster 3d effect 32bit ubuntu use 2 gb ram use 64 bit ubuntu use 37gb ram
+ANSWER raw: your slowness may be due to the fact that you are using intel hd graphics.
+ linux does not have very good 3d graphics support for intel chips. also, in 12.04, compiz eats a lot of memory. use a 64 bit ubuntu with either gnome 3 or cinnamon desktop for graphics effects. they use less amount of memory than compiz. or if you want, you can use unity-2d, faster with no 3d effects. 32bit ubuntu cannot use more than 2 gb of ram. if you use 64 bit, ubuntu will use 3.7gb of ram
+
+Probablity: {"probability": "3.54744e-09"}
+ANSWER cleaned: need run boot repair window medium diskusb go advanced mode run repair reboot seen window reason overwritecorrupt boot loader instance received grub menu grub screen without one option like loading ubuntu window usually repair boot file work going forward
+ANSWER raw: you will need to run a boot repair from a windows media disk/usb. when you go into advanced mode run the repair and reboot. 
+i've seen windows for some reason overwrite/corrupt the boot loader. some instances i have received only the grub menu, or grub screen without one of the options, like loading ubuntu or windows. usually once you repair the boot file it will work going forward.
+
+Probablity: {"probability": "0.29513"}
+ANSWER cleaned: well adventure got working whole afternoon worth stuff think short answer enable efi bios could install grub window devsda drive would think efiuefisecure boot anything ilk turned would allow freely install stuff prior fix though also updated motherboard bios firmware mention case user also need updating firmware found window ethernet controller needed new driver network connection run back forth window machine ubuntu machine usb stick download transfer necessary file besides ethernet controller driver also sneakernetted anything else looked interesting nic driver big issue window working right efi turned bios tried reinstalling ubuntu 1610 scratch m2 drive devsdc time around went without hitch held breath installing grub made thanks everyone contributed install work still learning experience configure ubuntu side way like
+ANSWER raw: well that was an adventure...  but i got it working.
+i had to do a whole afternoon's worth of stuff, but i think the short answer is that i had to enable efi in the bios before i could install grub to the windows (/dev/sda) drive.  you would think that having efi/uefi/secure boot or anything of that ilk turned off would allow me to freely install stuff..
+prior to this fix, though, i also updated my motherboard's bios firmware.  i mention this in case other users also need to do the same.  after updating the firmware i found that (in windows) my ethernet controller needed new drivers (no network connection) so i had to run back and forth from my windows machine to my other ubuntu machine with a usb stick to download then transfer the necessary files.  besides the ethernet controller drivers i also sneaker-netted anything else that looked interesting, but the nic drivers were the big issue.
+so once i had windows working right (with efi turned on in the bios) i tried reinstalling ubuntu 16.10 from scratch on the m.2 drive (/dev/sdc).  this time around it went through without a hitch.  i held my breath while it was installing grub but it made it through.  
+so thanks to everyone who contributed here.  this install was more work that it should have been but still a learning experience.
+now to configure the ubuntu side the way i like it....
+
+Probablity: {"probability": "0.55687"}
+ANSWER cleaned: resized window partition especially window boot partition ubuntu installation might cause problem problem window 7 oem system installing ubuntu deleted window boot partition booting window installation medium dvd usb flash drive window iso image written using recovery tool perform automatic repair may help
+ANSWER raw: have you resized the windows partition, especially the windows boot partition during the ubuntu installation? if so, that might be the cause of the problem. i had this problem with windows 7 on an oem system after installing ubuntu if i deleted windows's boot partition.
+booting from the windows installation medium (dvd or usb flash drive with your windows iso image written to it) and using its recovery tools to perform automatic repair may help.
+
+Probablity: {"probability": "1.02764e-07"}
+ANSWER cleaned: first must boot ubuntu run sudo grubinstall devsda need change bios setting boot internal drive first put grub bootloader internal drive hand use bios boot menu select internal drive bootup
+ANSWER raw: first you must boot into ubuntu and run
+sudo grub-install /dev/sda
+
+and then you need to change your bios settings to boot to the internal drive first.  that will put the grub bootloader on the internal drive.
+on the other hand, you can just use your bios boot menu to select the internal drive during bootup.
+
+Probablity: {"probability": "0.00227398"}
+ANSWER cleaned: issue trying solution internet ran ubuntu terminal sudo updategrub located window ubuntu installation automatically fixing boot issue hope help someone
+ANSWER raw: i had same issue. after trying other solutions on the internet, i ran from ubuntu terminal:
+> sudo update-grub
+
+it located the windows and ubuntu installations automatically fixing the boot issues.
+hope this helps someone.
+
+Probablity: {"probability": "0.204384"}
+ANSWER cleaned: noticed file add efifirmware option grub menu error computer grub installs initial grubupdate create config file fails file etcgrubd30efifirmware need edited remove ifthen statement update grub edited mine read gettextprintf adding boot menu entry efi firmware configurationn 2 cat eof menuentry uefifirmware fwsetup eof installer command prompt bottom make change reinstall grub nano text editor may comment gettextprintf line also continue installing grub make change livecd update grub
+ANSWER raw: i have noticed that the file that adds the efi-firmware option to the grub menu errors on some computers. grub installs but the initial grub-update to create the config file is what fails.
+the file /etc/grubd/30_efi-firmware needs to be edited to remove the if/then statement. then update grub.
+i've edited mine to read:
+
+gettext_printf "adding boot menu entry for efi firmware configuration\n" >&2
+cat << eof
+  menuentry 'uefi-firmware' {
+    fwsetup
+  }
+  eof
+
+if your installer has a command prompt at the bottom. you can make this change and reinstall grub (nano is the text editor. you may have to comment out the gettext_printf line also ).
+if not then, continue with out installing grub, and make the change from a livecd. and update grub.
+
+Probablity: {"probability": "0.772001"}
+ANSWER cleaned: try bootrepair utility tool allow configure grub sure think also allows select partition different hard disk o added grub menu google grub repair pretty sure helpful choose standard configuration detect o easiest way get extra entry grub menu
+ANSWER raw: try boot-repair. it's a utility tool that will allow you to configure grub and (i'm not sure but i think it also allows you to) select partitions on different hard disks with os to be added to the grub menu.
+google grub repair. i'm pretty sure it'll be helpful.
+choose the standard configuration and it will detect os's .  this is the easiest way, but you will get extra entries on your grub menu.
+
+Probablity: {"probability": "3.40965e-05"}
+ANSWER cleaned: download boot repair tool following link http sourceforgenetprojectsbootrepaircdfiles burn cd put usb key via unetbootin insert bootrepairdisk reboot pc select advanced option find boot menu timer option change like apply shut computer remove boot cd start
+ANSWER raw: 
+download boot repair tool from the following link:http://sourceforge.net/projects/boot-repair-cd/files/
+then burn it on cd or put it on usb key via unetbootin.
+insert the boot-repair-disk and reboot the pc.
+select advanced option. there you can find boot menu timer option. change as you like and apply.
+shut down your computer and remove boot cd and start again.
+
+
+Probablity: {"probability": "4.1703e-05"}
+ANSWER cleaned: noticed forum question know partition hard drive software enable two separate partition one hard drive two separate system believe duel boot nt really default boot option however may wrong example software free download use partition hard drive gparted used software worked like charm pretty easy use two link download link software web page use hope helped download http gpartedorgdownloadphp help page http wwwmakeuseofcomtaggpartedultimatepartitioningsoftware
+ANSWER raw: i noticed the forum and your question. i know you can partition the hard drive with some software that will enable you to have two separate partitions on one hard drive for two separate systems. i believe when doing a duel boot there isn't really a default boot option however i may be wrong.
+an example of some software free to download and use to partition your hard drive is: gparted, i've used this software myself it worked like a charm. pretty easy to use the two links below are the download link for the software and a web page of how to use it. hope this helped!! :)
+download: http://gparted.org/download.php
+help page: http://www.makeuseof.com/tag/gparted-ultimate-partitioning-software/
+
+Probablity: {"probability": "0.212267"}
+ANSWER cleaned: download install 64 bit version install usb simply choose option presented delete everything replace ubuntu installer take care partitioning
+ANSWER raw: if you download and install the 64 bit version from here and install it from a usb, simply choose the option you are presented with to delete everything and replace with ubuntu.  the installer will take care of the partitioning for you.
+
+Probablity: {"probability": "0.590925"}
+ANSWER cleaned: would recommend downloading new version ubuntu downloading rufus rufus creates bootable usb stick whatever iso put get choose whether bootable format stick hand another way run installer usb aware get new iso would way go newest version usb stick
+ANSWER raw: i would recommend downloading a new version of ubuntu, and downloading rufus. rufus creates bootable usb sticks with whatever iso you put on it. you get to choose whether or not it is bootable, and it will format the stick for you before hand. there is not another way to run the installer from the usb that i am aware of. if you can get a new iso this would be the way to go, then you have the newest version on your usb stick.
+
+Probablity: {"probability": "0.000218598"}
+ANSWER cleaned: use window repair disc window installation disc repair boot window 10 boot ubuntu live disc recover grub bootrepair http helpubuntucomcommunitybootrepair
+ANSWER raw: use windows repair disc or windows installation disc to repair boot of windows 10. 
+then, boot into a ubuntu live disc and recover grub with boot-repair.
+https://help.ubuntu.com/community/boot-repair
+
+Probablity: {"probability": "1.79057e-12"}
+ANSWER cleaned: new efi system window linux bootmanager separated use window boot manager default one instead grub select default efi boot manager bios setting automatically boot window default
+ANSWER raw: with the new efi system the windows and linux bootmanager are separated. to use the windows boot manager as the default one instead of grub, just select it as the default efi boot manager in the bios settings and you'll automatically boot into windows by default
+
+Probablity: {"probability": "2.18044e-06"}
+ANSWER cleaned: used window vista recovery cd use command prompt type bootrecexe fixmbr bootrecexe fixboot allowed boot vista downloaded easybcd setting bootloader xp able boot xp vista next step reinstall grub2 partition ubuntu installed nt know necessary testing easybcd able add bootloader ubuntu using super grub2 disk boot used easybcd add ubuntu everything work fine except ping lol still lag spike xp must wireless antenna something strangely playing lol using wine ubuntu giving stable ping computer hardware anyways thanks help
+ANSWER raw: i used the windows vista recovery cd and use the command prompt to type : 
+bootrec.exe /fixmbr
+bootrec.exe /fixboot
+
+this allowed me to boot vista. then i downloaded easybcd for setting up my bootloader for xp.
+from then, i was able to boot xp or vista.
+next step was to reinstall grub2 on the partition where ubuntu was installed (i don't know if this was necessary, but i did it before testing if easybcd was able to add the bootloader for ubuntu) by using super grub2 disk to boot on it. then, i used easybcd to add ubuntu.
+now, everything work fine, except for my ping in lol... (it still doing those lags spikes in xp, so it must be my wireless antenna or something) strangely, playing lol using wine on ubuntu was giving me a stable ping on the same computer with the same hardware.
+anyways, thanks for the help.
+
+Probablity: {"probability": "0.0079945"}
+ANSWER cleaned: burn installation cd using window 98 window 8 computer detects cdrom ubuntu installation cd problem cdrom medium bios setting window 98 computer try find bootable cdrom disk maybe window 98 rescue cd verify bios setting correct boot cdrom general issue 1 eject cd right burning wait burning totally finished put cd back test window 98 read cd correctly 2 create bootable iso cd common mistake least burned first installation cd 3 calculate checksum downloaded iso burning cd one option download isofile save different name rename older version downloading compare two file equal use newer version 4 older cdrom device nt read example cdrw medium correctly burn cd using cdr medium check burned cd using medium readable old computer
+ANSWER raw: did you burn your installation cd using windows 98?
+if windows 8 computer detects your cd-rom as ubuntu installation cd then the problem is not the cd-rom media but bios settings of your windows 98 computer.
+try to find a bootable cd-rom disk (maybe windows 98 rescue cd?) just to verify that your bios settings are correct to boot from cd-rom.
+general issues:
+1. eject cd right after burning it (wait until burning is totally finished) and put cd back just to test if windows 98 can read this cd correctly
+2. did you create a bootable iso cd? this is a common mistake at least for me when i burned my first installation cd's
+3. did you calculate checksum's for downloaded iso before burning it to cd? 
+one option is to download iso-file again and save it different name (or rename older version before downloading) and compare that two files are equal. if they are not use newer version.
+4. some older cd-rom devices don't read for example cd-rw media correctly. then you have to burn your cd using cd-r media. check that you have burned your cd using media that is readable in your old computer.
+
+Probablity: {"probability": "5.18378e-06"}
+ANSWER cleaned: try window boot repair terminal bootrec fixmbr window bootup try reinstall ubuntu
+ANSWER raw: try from windows boot repair and from terminal
+bootrec /fixmbr
+if windows bootup try reinstall ubuntu.
+
+Probablity: {"probability": "0.000399853"}
+ANSWER cleaned: depends order installed everything might able repair might start share thought provide detail set thing narrow solution generally recommended sequence installation prepare partition install window install linux grub2 configures find window bootloader add grub menu machine come window preinstalled shrink window partition using window disk management utility adminiistrative tool section control panel fire live linux diskusb stick use gparted well install window second like o system automatically bulldoze whatever grub file mbr case hope upgraded window 81 first far finding existing window bootloader adding grub menu could try using osprober exactly sound probe system installed os add bootloader always encouraged read documentation relevant problem arch linux wiki fantastically thorough kept well uptodate grub section another good resource dedoimedo grub tutorial computer bit older likely installing grub2 bootloader partition containing window mbr usually devsda computer bit newer efi boot partition install one recent ubuntu build like 1404 install grub2 bootloader efi partition may vary device depending manufacturer set partition scheme able see partition labeler efi using something like gparted partition manager newer ubuntubased distros seem work well efi machine good luck stock ubuntu 1204 linux mint 16 ubuntugnome 1204 another thing check machine boot order efibios setting efi setting show ubuntu window adjust priority boot first see windwos bootloader efibios menu might need use osprober add window grub would simplest solution let u know fare
+ANSWER raw: so it depends on what order you installed everything, you might be able to repair, you might have to start over. i'll share some of my thoughts and if you can provide more details on how you set things up we can narrow down a solution for you.
+the generally recommended sequence of installation is to prepare your partitions, install windows, then install linux so when grub2 configures it will find the windows bootloader and add to the grub menu. on machine's that come with windows preinstalled, you can shrink your windows partition using the windows disk management utility from the adminiistrative tools section in the control panel, or you can just fire up a live linux disk/usb stick and use gparted as well. 
+if you install windows second it likes to be the only os on your system so will automatically bulldoze whatever grub files you had in the mbr. so in your case i hope you upgraded to windows 8.1 first.  
+as far as finding an existing windows bootloader and adding to your grub menu you could try using os-prober which will do exactly what it sounds, probe your system for installed oses and adds them to your bootloader.
+it's always encouraged to read up on the documentation for your relevant problem. the arch linux wiki is fantastically thorough and kept well up-to-date, the grub section is here and another good resource is dedoimedo's grub tutorial.
+if your computer is a bit older then you likely should be installing the grub2 bootloader into partition containing the windows mbr which is usually /dev/sda.
+if your computer is bit newer and has an efi boot partition then you can install one of the more recent ubuntu builds like 14.04 and install your grub2 bootloader into the efi partition. this may vary by device depending on how your manufacturer set up the partition scheme. you should be able to see which partition is labeler "efi" using something like the gparted partition manager.
+newer ubuntu-based distros seem to work well on efi machines. i've had good luck with stock ubuntu 12.04+, linux mint 16+ and ubuntu-gnome 12.04+.
+another thing you can check is your machine's boot order in the efi/bios settings. my efi settings show both ubuntu and windows and i can adjust the priority of which will boot first. if you can see the windwos bootloader in your efi/bios menu then you might just need to use the os-prober to add windows to your grub, which would be the simplest solution. 
+let us know how you fare. 
+
+Probablity: {"probability": "3.75977e-05"}
+ANSWER cleaned: thougt im expert tried live boot going file manager see access file edit boot live cd hit try ubuntu try open file manager would normal installation try access window file may give permission though
+ANSWER raw: just a thougt, im not an expert but have you tried a live boot and going into the file manager to see if you can access your files from there
+edit: just boot from a live cd and then hit try ubuntu, from there you can try to open the file manager just as you would a normal installation and try to access your windows files. it may not give you permission though.
+
+Probablity: {"probability": "3.16076e-05"}
+ANSWER cleaned: try download http wwwlinuxliveusbcom run use linuxliveusb extract modify content ubuntu iso usb drive make sure select format fat32 linuxliveusb finished close window continue reading nt given specific machine idea weather pc us uefi regular bios key us access menu try help many key combination know instruction uefi reboot pc screen go blank press hold f9 menu pop go step try rebooting list key combination one per boot though f1 f2 f6 f8 f10 f11 f12 delete backspace esc work use arrow key select different device want look usb drive named linuxlive named linuxlive likely name mylinuxlive find select using enter key look folder named boot enter folder look folder named grub another folder enter select top file nt work try next file nt work navigate back mylinuxlive folder enter folder efi boot select top file nt work try next none option worked consider finding detail pc like manufacture model post spec back askubuntu sorry could help c
+ANSWER raw: try this:
+
+download: http://www.linuxliveusb.com/ and run it;
+use linuxliveusb to extract and modify the contents of your ubuntu iso to your usb drive (make sure to select 'format to fat32');
+when linuxliveusb is finished, close out of the window and continue reading >>>
+
+because you haven't given me specifics on your machine, i have no idea weather your pc uses uefi or regular bios and what key it uses to access those menus, so i'll try to help you with as many key combinations i know. here are the instructions to uefi:
+
+reboot your pc. when the screen goes blank, press and hold 'f9'. if a menu pops up, go to step (). if not then try rebooting with this list of key combinations (one per boot, though):
+
+"f1", "f2", "f6", "f8", "f10", "f11", "f12", "delete", "backspace", "esc".
+
+if this works, use your up and down arrow keys to select different devices. you will want to look for the usb drive you named or linuxlive named (linuxlive will most likely name it 'mylinuxlive'). when you find it, select it using the 'enter' key and look for a folder named 'boot'. enter that that folder then look for a folder named 'grub'. if there is another folder, enter it and select the top most file. if that doesn't work, try the next file. if that doesn't work then navigate back up to the 'mylinuxlive' folder and enter the folders 'efi' then 'boot'. select the top most file again, and if that doesn't work try the next.
+if none of these options worked for you, consider finding details about your pc (like manufacture and model), and post your specs back to askubuntu. sorry if i could be no help. :c
+
+
+Probablity: {"probability": "0.0110692"}
+ANSWER cleaned: known way adding foreign nonwindows uefiefi loader chain loaded window boot manager window 78 regarding visual bcd editor uefi capable create uefi loader window 78 chain loading foreign nonwindows os possible mbr disk scheme use called boot sector loader chaining partition boot sector mbr code foreign system see go update 01jun 2014 new tool window 817vista called bootnext allows direct booting linux ubuntu window uefi firmware
+ANSWER raw: there is no known way until now for adding a foreign, non-windows uefi/efi loader to be chain loaded by windows boot manager (windows 7/8).
+regarding visual bcd editor - it is uefi capable. you can create uefi loaders for windows 7/8.
+chain loading foreign, non-windows oss is possible for mbr disk scheme. you use a so called boot sector loader chaining over partition boot sector or mbr code of foreign system. you can see here how it goes.
+update: (01.jun 2014)
+there is a new tool for windows 8.1/7/vista called bootnext which allows direct booting of linux(ubuntu) from windows on uefi firmware.
+
+Probablity: {"probability": "5.47219e-05"}
+ANSWER cleaned: window partition dyanamic disk described earlier pastebin advice displayed case recommended repair sfs detected may want retry converting window dynamic partitioning sfs partition basic disk performed via tool testdisk easeuspartitionmaster minitoolpartitionwizard want continue default setting recommendedrepair setting would reinstall grub2 sda3 mbr sda additional repair would performed unhidebootmenu10s think problem corrected sure look window startbar type diskmgmtmsc open disk management check whether disk listed dyanamic basic take help link http wwwsevenforumscomtutorials26829convertdynamicdiskbasicdiskhtml second bootrepair recommendedrepair setting would reinstall grub2 sda3 mbr sda additional repair would performed unhidebootmenu10s grub seems successfully installed boot successfully repaired reboot computer check basic diskdyanamic disk part tell u completely whetever problem facing
+ANSWER raw: your windows partition was a dyanamic disk,
+as described from your earlier pastebin:
+
+=================== advice displayed in case of recommended repair
+sfs detected. you may want to retry after converting windows dynamic >partitioning (sfs partitions) to a basic disk. this can be performed via tools >such as testdisk or easeus-partition-master / minitool-partition-wizard.
+  do you want to continue?
+=================== default settings
+recommended-repair this setting would reinstall the grub2 of sda3 into
+  the mbr of sda. additional repair would be performed:
+  unhide-bootmenu-10s
+
+i think the problem was corrected, but to be sure look in windows, in your startbar, type
+diskmgmt.msc
+
+to open up disk management
+and check whether your disk is listed as dyanamic or basic.
+you can take help from this link about it- http://www.sevenforums.com/tutorials/26829-convert-dynamic-disk-basic-disk.html
+after your second boot-repair 
+
+recommended-repair this setting would reinstall the grub2 of sda3 into
+  the mbr of sda. additional repair would be performed:
+  unhide-bootmenu-10s
+
+grub seems to have been successfully installed.
+
+boot successfully repaired.
+  you can now reboot your computer.
+
+so check about the basic disk/dyanamic disk part, and tell us more completely whetever problem you are facing.
+
+Probablity: {"probability": "0.483872"}
+ANSWER cleaned: since failed provide model give loose guideline use correct f1 key enter bios startup change boot order b use correct f1 key open boot menu select win 7 usb drive also make sure legacy boot enabled uefi computer
+ANSWER raw: since you have failed to provide the model, i can only give you loose guidelines.
+a) use the correct f1 key to enter the bios during startup and change the boot order,
+or
+b) use the correct f1 key to open the boot menu and select the win 7 usb drive.
+also, make sure that you have legacy boot enabled if this is a uefi computer.
+
+Probablity: {"probability": "0.000592089"}
+ANSWER cleaned: answer problem disable fast boot window 8 disable control panel item power option system setting click change setting currently unavailable link make shutdown option available untick turn fast startup option reason explained content source fast boot explained image fast boot system load hiberfile use file filesystem biggest problem worst problem computer data loss create shared ntfs data partition hibernation may maintain file structure try save file linux ntfs partition get lost window reboot remembers old file structure see ubuntu forum thread information general disc mounted using fast boot window put disc content hiberfile change made system gone hiberfile restored includes mounted external disc ubuntu refuse mount disc hiberfile one bad message see topic getting disc error booting window
+ANSWER raw: the answer to your problem is to disable fast boot on windows 8.
+to disable it - 
+all control panel items -> power options -> system settings
+click on the 'change settings that are currently unavailable' link to make the shutdown options available and untick the turn on fast startup option.
+the reason for this is explained below with content from this source.
+fast boot explained with an image:
+
+during fast boot the system loads the hiberfile and does not use the files on the filesystem. 
+so the biggest problem, and the worst problem you can have on a computer, is data loss: if you create a shared ntfs data partition the hibernation may maintain the file structure so if you try to save a file from linux into the ntfs partition it will get lost on windows reboot as it only remembers the old file structure. see this ubuntu forums thread for more information.
+in general: if a disc is mounted when using fast boot, windows puts this disc and its content in a hiberfile. any changes made to the system are gone when the hiberfile is restored. this includes mounted external discs. ubuntu will refuse to mount a disc that has a hiberfile. 
+one of the bad messages you see in these topics is getting a "disc has errors" when booting windows.
+
+Probablity: {"probability": "8.03968e-05"}
+ANSWER cleaned: setting boot priority bios putting usb containing ubuntu hdd window boot ubuntu hdd mounted storage device
+ANSWER raw: setting the boot priorities in bios and putting your usb containing ubuntu before the hdd with windows will boot up ubuntu and you will have the hdd mounted as a storage device.
+
+Probablity: {"probability": "2.10343e-05"}
+ANSWER cleaned: able install 1404 64 bit toshiba nb10ta similar specification live cd fiddling around bit able get grub load computer booted business involved switching uefi mode mode forget precise name life nt work switched back uefi mode caused grub spontaneously start working instruction followed might want deviate particular instruction bit fan prompt partition hard drive installing ubuntu send well way feel free contact directly comment question particular step etc
+ANSWER raw: i was able to install 14.04 (64 bit) on a toshiba nb10t-a with very similar specifications. i did it with a live cd. and after fiddling around a bit... i was able to get grub to load up when my computer booted and i was in business. this involved switching from uefi mode, to the other mode (i forget the precise name of it, for the life of me), which didn't work... and so i then switched back to uefi mode, which caused grub to spontaneously start working. these are the instructions i followed.
+you might want to deviate from these particular instructions just a  bit, i'm not a fan of how they prompt you to partition your hard drive when installing ubuntu, but other than that... they should send you well on your way.
+feel free to contact me directly or comment here if you have questions about how i did a particular step, etc.
+
+Probablity: {"probability": "0.0166568"}
+ANSWER cleaned: going mess around bootloaders would look installing grub main hd perhaps making ubuntu hardrive primary drive manually editing grub config via command gediting file grub aware window partition hd
+ANSWER raw: you're going to have to mess around with the bootloaders.  i would look into installing grub on the main hd.  perhaps making the ubuntu hardrive the primary drive.  and then manually editing the grub config (via the command, not gediting the file) so grub is aware of the windows partitions on the other hd
+
+Probablity: {"probability": "0.078363"}
+ANSWER cleaned: seems grub first drive chainloads grub second drive try uninstalling grub second run updategrub first one
+ANSWER raw: it seems your grub from first drive "chainloads" to  grub at second drive. try uninstalling grub from second and run update-grub on first one.
+
+Probablity: {"probability": "3.93413e-06"}
+ANSWER cleaned: website offer solution recover window product key microsoft software using linux live cdusb need separate storage copy c windowssystem32config directory run recovery software product key write keep somewhere safe
+ANSWER raw: the same website offers a solution on how to recover windows product key (and other microsoft software) using a linux live cd/usb. you need to have a separate storage to copy the 
+
+c:\windows\system32\config
+
+directory to run the recovery software.
+once you have the product key, write it down and keep it somewhere safe.
+
+Probablity: {"probability": "0.0395095"}
+ANSWER cleaned: use grub customizer sudo addaptrepository ppa danielrichter2007grubcustomizer sudo aptget update sudo aptget install grubcustomizer open grub customizer change order
+ANSWER raw: you can use grub customizer:
+sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+sudo apt-get update
+sudo apt-get install grub-customizer
+
+now open grub customizer and change the order.
+
+Probablity: {"probability": "0.655229"}
+ANSWER cleaned: window 10 love see installed o computer thus making unable boot others need set grub default boot manager window admin command prompt powershell run command bcdedit set bootmgr path efiubuntugrubx64efi use powershell run command bcdedit set bootmgr path efiubuntugrubx64efi restart computer grub show hp logo
+ANSWER raw: windows 10 loves to see itself as the only installed os on your computer, thus making you unable to boot into others. what you need to do is to set grub as the default boot manager in windows through an admin command prompt or powershell. 
+run this command: 
+bcdedit /set {bootmgr} path \efi\ubuntu\grubx64.efi
+
+if you use powershell, run this command: 
+bcdedit /set "{bootmgr}" path \efi\ubuntu\grubx64.efi
+
+restart your computer then grub should show up after the hp logo. 
+
+Probablity: {"probability": "1.71458e-08"}
+ANSWER cleaned: trying boot window cd change boot device order bios nothing grub bootrepair booting problem window cd system hardware change boot device order bios press esc function key based system beginning boot process
+ANSWER raw: if you are trying to boot a windows cd, then you should change the boot device order in the bios. it has nothing to do with the grub boot-repair. if it's not booting then it's a problem with your windows cd or the system hardware.
+to change the boot device order in your bios, you should press esc or some function key based on your system at the beginning of the boot process.
+
+Probablity: {"probability": "1.17186e-05"}
+ANSWER cleaned: run ubuntu live cd dvd usb stick choose try ubuntu loaded run program boot repair fix grub
+ANSWER raw: run ubuntu live from a cd, dvd or usb stick. choose "try ubuntu" and when its loaded run the program "boot repair" from there. and fix the grub..
+
+Probablity: {"probability": "0.0560175"}
+ANSWER cleaned: 0k work wonder 1 truecrypt swapping hdd didnt yet need 10gb swap space later gimp image processing 2 thx blankreg used code vmswappiness 10 vmvfscachepressure 50 vmdirtywritebackcentisecs 1500 3 line useful later one became useless implemented 3rd option although swappiness set 0 ram get full need wait swap part running current program set 10 imagine o leave 10 free ram space unexpected application running free 10 cache pressure important program break next command run memory setting value low cause dataram ejected swap needed coderam constantly present ram bad using firefox example dont need coderam ram could used active aplication store dataram writeback useful home directory read writes overflood pdrive lot small writes instead use big writes sure pdrive free whenever read operation need performed want firefox freze program dont need wait writes say want save continue business program read something waiting 99 time receive want case pdrive take second firefox freeze implement command need edit etcsysctlconf soo run gksudo gedit etcsysctlconf case line present default value loaded added line possible edit line variable append overwrite care 3 boot ram http ubuntuforumsorgshowthreadphp t1594694 forum great boot ram script creates another o 2 ubuntus one readonlyfastram missunderstand readonly read write filesystem whatever want ie install game program reboot shutdown occurs file lost one readwriteslowpdrive enable home folder store data restarts need make partition home another noticed partition used 2x800mb soo take consideration many application going install idea readonlyfastram o move swap instead ram preferably hdd swap making slow installed hdd instead pdrive 10 slower fast installed pc future always eat ram install script without reading forum run sudo aptget install git git clone git githubcomterminator14ramboostergit cd homeusernamerambooster sudo bash ramboosterubuntu1204sh caferul example 124 version durring installation 45minutes case asked question like make homefolder save data session making automatic scheduled operation midnight prefer update manually reading forum beforehand already made home partition separate afterwards grub extra new default option boot readonlyfastram o awesome mean click firefox feel like didnt release finger button firefox already pooped pun intended open save update simple way done readonlyfastram o run sudo rupdate operation save data inside ram o readwriteslowpdrive readonlyfastram container separate container loaded ram 45seconds case bootup 4 preloader cant talk preloader preloader nice try load library needed instead needed moment time removed ram since step 3 already useless install preloader installed boot ram case dont want install boot ram use code sudo aptget install preload already didnt install boot ram think using blankreg code store temporary file ram instead disk though wont help lot tried day ago firefox froze frequently enough piss pc lot thing updating local dropbox folder installing aplications sufring net boot ram still froze every 45 second good thing could read letter frozen dont recomend using last line code ubuntu broke time 4 running pendrive workspace switcher ie mose moving keyboard efect nothing screen updated clock showed time past 30minutes really wanted check crash report gksudo gedit etcfstab tmpfs tmp tmpfs default noatime mode1777 0 0 tmpfs vartmp tmpfs default noatime mode1777 0 0 tmpfs varbackups tmpfs default noatime mode1777 0 0 tmpfs varcacheaptarchives tmpfs default noatime 0 0 tmpfs varlog tmpfs default noatime mode0755 0 0
+ANSWER raw: 0k here is what i did and works wonders:
+-1 truecrypt swapping from hdd (didnt do it yet, i will because i need some 10gb swap space later on for some gimp image processing  
+2 thx to blankreg i used some of his code:  
+vm.swappiness = 10
+vm.vfs_cache_pressure = 50
+vm.dirty_writeback_centisecs = 1500  
+
+these 3 lines are very useful but the later ones became useless once i implemented the 3rd option, although swappiness(do not set it to 0 as when ram will get full you will need to wait to swap parts of it before running the current program, when set to 10, imagine that the os will leave 10% free ram space for unexpected applications and while running them free some other 10%)   
+and cache pressure is important as programs can break if the next command to be run is not in memory(setting this value to low will cause data-ram to be ejected to swap when needed and code-ram be constantly present in ram - which is bad because when you are not using firefox for example you dont need the code-ram of it so those rams could be used by the active aplication to store data-ram)  
+and writeback is useful for the /home directory read writes not overflood the pdrive with lots of small writes, instead use few big writes (not sure) so that the pdrive can be free whenever a read operation need to be performed(you do want firefox not to freze, do you? this is because programs dont need to wait for writes, they just say they want to save this there and then continue on with their business, but when a program reads something, it is waiting (99% of the time) to receive what it wants and in the case of the pdrive it will take more than a few seconds and so firefox freezes)   
+to implement these commands you need to edit the /etc/sysctl.conf soo run  
+gksudo gedit /etc/sysctl.conf  
+
+in my case the lines were not present(default values were loaded) so i just added these lines, it is possible for you to edit the lines that have these variables (append or overwrite, who cares, just do it)  
+3 boot to ram,
+http://ubuntuforums.org/showthread.php?t=1594694
+here is the forum, a great boot to ram script, it creates another os (now you have 2 ubuntus) one is readonly-fast-ram(do not missunderstand readonly, you can read and write in the filesystem whatever you want ie install games and programs, but once reboot or shutdown occurs those files will be lost) other one is readwrite-slow-pdrive
+to enable your /home folder to store data between restarts you need to make a partition for "/home", and another for "/"
+i noticed that the "/" partition used 2x800mb soo take into consideration how many applications you are going install there
+i have no idea if the readonly-fast-ram os can move to swap instead of ram (preferably the hdd swap, making it just as slow as it were installed on the hdd (instead of pdrive which is 10 slower), but as fast as it was installed on a pc from the future) or it will always eat ram  
+to install the script without reading the forum run  
+sudo apt-get install git
+git clone git://github.com/terminator14/ram_booster.git
+cd /home/username/ram_booster
+sudo bash ram_booster_ubuntu_12.04.sh  
+
+caferul as the above example is for 12.4 version
+durring the installation(about 45minutes in my case) you will be asked some question like make the homefolder save data between sessions and making an automatic scheduled operation at midnight (i prefer to update manually, and reading the forum beforehand i already made my /home partition separate)
+afterwards your grub will have an extra (new default) option to boot the readonly-fast-ram os, in here it is awesome! i mean i click firefox and it feels like i didnt release my finger from the button and firefox already pooped(pun intended) open
+to save any updates (the simple way) that you have done to the readonly-fast-ram os run  
+sudo rupdate --both  
+
+this operation saves the data inside the ram os to the readwrite-slow-pdrive, and to the readonly-fast-ram container (they are separate, this container is loaded to ram in about 45seconds in my case at bootup)
+4 preloader, cant not talk about preloader, preloader is nice because it tries to load all the libraries that can be needed (instead of being needed at that moment in time and then removed) to the ram, but since step 3 already does this it is useless to install preloader if you installed boot to ram, but in case you dont want to install boot to ram then use this code  
+sudo apt-get install preload  
+
+but if you are already here (didnt install boot to ram) think of using blankreg's code to store some temporary files to ram instead of disk (though it wont help a lot, i tried it a few days ago, and firefox froze frequently enough to piss you off when the pc was doing lots of things (i was updating the local dropbox folder + installing some aplications + sufring the net about boot to ram and it still froze every 45 seconds or so, good thing i could read the letter while it was frozen)
+i dont recomend using the last line of code, as my ubuntu broke a few times(~4) when running from the pendrive in workspace switcher ie mose was moving, keyboard no efect, nothing on screen was updated clock showed same time for the past 30minutes, and i really wanted to check the crash report  
+gksudo gedit /etc/fstab  
+
+tmpfs   /tmp                tmpfs   defaults,noatime,mode=1777  0  0 
+tmpfs   /var/tmp            tmpfs   defaults,noatime,mode=1777  0  0
+tmpfs   /var/backups            tmpfs   defaults,noatime,mode=1777  0  0
+tmpfs   /var/cache/apt/archives/    tmpfs   defaults,noatime        0  0
+tmpfs   /var/log            tmpfs   defaults,noatime,mode=0755  0  0
+
+
+Probablity: {"probability": "4.30985e-06"}
+ANSWER cleaned: since removed window disk installed ubuntu grub boot loader set boot disk 1 disk machine time plugged disk window 1 linux 2 told bios boot linux disk bios start grub grub look file disk 1 except disk 2 grub find file fails
+ANSWER raw: since you removed the windows disk when you installed ubuntu, the grub boot loader has been set up to boot from disk #1 (the only disk in the machine at the time).
+now, you have plugged both disks (windows is #1, linux is #2), and told the bios to boot the linux disk. the bios start grub, grub looks for its files on disk #1, except they are now on disk #2. grub does not find the files, and fails.
+
+Probablity: {"probability": "1.67163e-06"}
+ANSWER cleaned: way install window ubuntu without using bios screen yes install virtualbox sudo aptget install virtualbox ubuntu install window 7 virtual machine virtualbox
+ANSWER raw: is there any way for me to install windows through ubuntu, without using the bios screen?
+
+yes: install virtualbox with sudo apt-get install virtualbox
+under ubuntu and install windows 7 in a virtual machine under virtualbox
+
+Probablity: {"probability": "0.00599403"}
+ANSWER cleaned: get window 8 bootloader back boot window repair disk window installation disk run startup repair fix program stop window booting look link window fixed want install ubuntu downloading iso booting installingfor instruction check page http wwwubuntucomdownloaddesktopinstalldesktoplatest
+ANSWER raw: to get your windows 8 bootloader back you have to boot from a windows repair disk, or your windows installation disk, and run startup repair (fix programs that stop windows from booting). 
+have a look at this link.
+once your windows is fixed, then if you want you can install ubuntu by downloading the iso, booting from it, and installing.for instructions check out this page http://www.ubuntu.com/download/desktop/install-desktop-latest.
+
+Probablity: {"probability": "0.0389619"}
+ANSWER cleaned: likely caused accidentally installing grub window filesystem meaning window filesystem contains directory boot created window bootloader directory boot note one capital b ant lowercase b created grubinstall confusing osprober solution mount window partition remove boot directory created grubinstall safe removing completely rename something like badboot restore needed rather deleting completely nt know explained please run boot info script post resultstxt explained http ubuntuforumsorgshowthreadphp t1291280 give step step direction based current setup
+ANSWER raw: this was most likely caused by you accidentally  installing grub to your windows filesystem, meaning that your windows filesystem now contains a directory "/boot/" created by windows for its bootloader, and a directory "/boot/" (note that one has a capital 'b' ant the other a lowercase 'b') created by grub-install. this is confusing os-prober. the solution is to mount your windows partition and remove the "/boot" directory created by grub-install (to be safe, before removing it completely you should rename it to something like "bad_boot" so that you can restore it if needed rather than deleting it completely).  
+if you don't know how to do what i've explained above please run boot info script and post the results.txt as explained here: http://ubuntuforums.org/showthread.php?t=1291280 and i will give you step by step directions based on your current setup.
+
+Probablity: {"probability": "0.103114"}
+ANSWER cleaned: get hp boot repair screen repair window installation repair window bootloader may need repeat grub repair done file corrupted
+ANSWER raw: when you get to the hp boot repair screen. repair the windows installation. this should repair the windows bootloader, you may need to repeat the grub repair after this has been done, but it should only be that file that's been corrupted.
+
+Probablity: {"probability": "0.000774719"}
+ANSWER cleaned: try use bootrepair detect system installed rewrite grub loader correctly
+ANSWER raw: try to use the boot-repair. 
+it should detect the systems installed and rewrite the grub loader correctly.
+
+Probablity: {"probability": "0.000465807"}
+ANSWER cleaned: never used sound like manual editing required grubreboot allows specify operating system reboot using simple command number assigned o entry grub reboot o open terminal type grubreboot information found debian sound like program may preinstalled ubuntu anyways might worth look information found http wikidebianorggrubreboot http helpubuntucomcommunitygrub2setup
+ANSWER raw: i've never used it, and it sounds like some manual editing is required but grubreboot allows you to specify which operating system to reboot into using a simple command. a number is assigned to each os entry in grub, to reboot into an os just open your terminal and type: 
+grub-reboot #
+
+most of the information i found was for debian, but it sounds like this program may be pre-installed on ubuntu? anyways it might be worth a look.
+information i found on it:
+https://wiki.debian.org/grubreboot
+https://help.ubuntu.com/community/grub2/setup
+
+Probablity: {"probability": "0.999998"}
+ANSWER cleaned: recently installed ubuntu 1304 system window 8 pre installed well faced similar problem rebooting thing got back normal first step though installing new o create repairrecovery disk tutorial creating dual boot system tell assuming disabled secureboot started try enabling see happens strange installer recognize window 8 partition boot repair log seems say otherwise sure ubuntu image downloaded corrupted hp system get boot manager press f9 start find key system seems ubuntu installed system find ubuntu boot menu select see happens unless tried already nothing happens try reinstall formatting partition ext4 swap
+ANSWER raw: i recently installed ubuntu 13.04 on my system, which had windows 8 pre - installed on it as well. i had faced a similar problem but on rebooting again, things got back to normal. the first step though, before installing any new os is to create a repair/recovery disk, as any tutorial for creating a dual boot system will tell you. i am assuming that you disabled secureboot before you started. try enabling it again, and see what happens. what is strange to me is that your installer did not recognize the windows 8 partition. your boot repair log seems to say otherwise. are you sure the ubuntu image your downloaded was not corrupted?
+i have an hp system and to get to the boot manager i have to press f9 at start up. find out which key it is for your system. it seems ubuntu has been installed on your system, so you should find ubuntu on the boot menu. select it and see what happens (unless you have tried this already). if nothing happens, you can try to reinstall by formatting both the partitions (ext4 and swap). 
+
+Probablity: {"probability": "0.107667"}
+ANSWER cleaned: probably need partition live cd follow link ubuntu howtopartition page
+ANSWER raw: you probably need to partition it from the live cd, follow the link to the ubuntu howtopartition page.
+
+Probablity: {"probability": "0.000203407"}
+ANSWER cleaned: probably reinstall grub bootloader achieve via installation cd following terminal mount ubuntu system partition sudo mkdir mntubuntu sudo mount devsdb1 mntubuntu mount sys proc dev sudo mount proc none mntubuntuproc sudo mount rbind sys mntubuntusys well sudo mount rbind dev mntubuntudev chroot installed ubuntu system sudo chroot mntubuntu binbash chroot update grub config updategrub install grub whatever hard disk like grubinstall devsda grubinstall devsdb reboot system choose right hard drive boot system
+ANSWER raw: you probably have to reinstall the grub bootloader. you can achieve this via the installation cd by doing the following in a terminal:
+
+mount the ubuntu system partition: sudo mkdir /mnt/ubuntu and sudo mount /dev/sdb1 /mnt/ubuntu
+mount /sys /proc and /dev: sudo mount -t proc none /mnt/ubuntu/proc and sudo mount --rbind /sys /mnt/ubuntu/sys as well as sudo mount --rbind /dev /mnt/ubuntu/dev
+chroot into the installed ubuntu system: sudo chroot /mnt/ubuntu /bin/bash
+now in the chroot you can update the grub config: update-grub
+and install grub to whatever hard disk you like: grub-install /dev/sda or grub-install /dev/sdb
+
+then reboot your system and choose the right hard drive to boot your system!
+
+Probablity: {"probability": "1.20582e-06"}
+ANSWER cleaned: boot ubuntu 1404 make sure perform complete system upgrade sudo aptget upgrade followed eventually sudo aptget distupgrade case heldback package run previously mentioned command next one terminal window press ctrlaltt terminal window popup terminal emulator present system install one using software center typing keyword terminal finish updating system reboot run command terminal window sudo updategrub see whether grub recognizes window o good go mean done half job window finally bootup next repair window installation window dvd using repair computer option finish one download boot repair cd iso image burn regular cd put usb key via unetbootin assume using window 7 next restart computer boot repair cd tray finish loading choose recommended repair option finally fix dualboot configuration able boot window ubuntu grub see window o running sudo updategrub could installed grub ubuntu partition step namely repair window mbr bootable window dvd use boot repair cd fix boot problem almost forgot mention download 64bit iso image boot repair cd using 64bit system 32bit iso image using 32bit o
+ANSWER raw: after you boot into ubuntu 14.04, make sure you perform a complete system upgrade (sudo apt-get upgrade followed eventually by sudo apt-get dist-upgrade just in case you have heldback packages).
+you can run previously mentioned commands and the next one in a terminal window (press ctrl+alt+t for the terminal window to pop-up). if there is no terminal emulator present on your system, you can install one using the software center and typing in as keyword terminal.
+after you finish updating the system and reboot, you can run this command in the same terminal window:
+  sudo update-grub
+
+see whether grub recognizes your windows os, and if it does you're good to go, i mean you done half the job for windows to finally boot-up. next you should repair your windows installation with your windows dvd, using the repair your computer option, and after you finish with this one, you can download boot repair cd iso image and burn it on a regular cd or put it on usb key via unetbootin. i assume you're using windows 7 ?
+next you should restart your computer with boot repair cd in tray and after it finishes loading you can choose the 'recommended repair' option to finally fix your dual-boot configuration and be able to boot into both windows and ubuntu.
+if grub does not see your windows os after running sudo update-grub, it could be because you installed grub on the ubuntu partition, and you should do the same steps, namely repair windows mbr with your bootable windows dvd, and then use boot repair cd to fix your boot problems.
+almost forgot to mention that you should download the 64bit iso image for boot repair cd if you're using a 64bit system, and the 32bit iso image if you're using a 32bit os.
+
+Probablity: {"probability": "0.226662"}
+ANSWER cleaned: problem asus machine try highlight try ubuntu grub menu press button e line linux add command noveaumodeset0 press f10 disables graphic driver boot wo nt freeze make sure installing get appropriate driver installation nt got stuck purple screen reboot also happens rebooting boot recovery mode install graphic missing driver additional driver dash able boot ubuntu
+ANSWER raw: i had the same problem on my asus machine. try this, highlight the try ubuntu in the grub menu and then press the button  e  then in the line with linux add the below command just before         - - -
+noveau.modeset=0
+
+and then press f10 after it. it disables the graphic driver and will now boot and won't freeze. just make sure while installing to get the appropriate drivers during installation itself. i didn't do it so it got stuck for me on the purple screen after reboot.
+if it also happens with you after rebooting. then you should boot in the recovery mode and then install the graphics and missing drivers from the additional drivers in the dash. after that you will be able to boot up your ubuntu.
+
+Probablity: {"probability": "0.0176891"}
+ANSWER cleaned: try use live cd live usb terminal type sudo aptget grub update use grubcustomizer sudo aptget install grubcustomizer open grubcustomizer choose o
+ANSWER raw: did you try to use a live cd or live usb?
+in terminal, type: sudo apt-get grub update
+or you can use grub-customizer: sudo apt-get install grub-customizer
+and open grub-customizer to choose your os.
+
+Probablity: {"probability": "0.849093"}
+ANSWER cleaned: ok reinstalled window detected window 7 properly load got ta get rid window 8 boot entry done
+ANSWER raw: ok, re-installed windows and it is now detected as windows 7, and properly loads. now i gotta get rid of "windows 8" from the boot entry and i'm done. 
+
+Probablity: {"probability": "0.00389726"}
+ANSWER cleaned: partition table corrputed use super grub disk boot window compare checksum iso nothing wrong iso edit ques every specific detail computer check supported hardware ubuntu linux kernel website installer messed partition table backup backup try restoring tool like testdisk alot howtos web help luckily made backup installation whole disk backup even backup mbr partition table restore backup try new iso said important stuff use livecd boot live installation environment get stuff first partition table intact finally try make backup must understand important remember make messing around risky stuff enough website teach hope helped
+ANSWER raw: if your partition table is not corrputed, use super grub disk to boot into windows and compare checksums of the iso. if nothing is wrong with your iso, edit the ques. with every specific detail of your computer and check for supported hardware on ubuntu and linux kernel website.
+if the installer messed up your partition table (backups, backups, where are you), try restoring it with a tool like testdisk, there are alot of howtos on the web to help you.
+if, luckily, you made backups before the installation (the whole disk backups that even backup your mbr and partition table), just restore the backups and try again (with a new iso?).
+but, as you said, you have important stuff on there, use your livecd to boot into a live (not installation) environment and get your stuff out of there first (that is if your partition table is intact)
+finally, before you try again, make backups? you must understand how important they are and remember to make them before messing around risky stuff and there are enough websites to teach you how to do that.
+hope i helped :)
+
+Probablity: {"probability": "7.45376e-06"}
+ANSWER cleaned: yes look like installed window laptop hdd instead ssd data still one layer hdd would recommend put data preferably use special service recover data try recover data need external hdd usb external hdd would recover data also would install recovery tool use data recovery cd
+ANSWER raw: yes, looks like you've installed over windows.
+if your laptop has an hdd instead of ssd than the data is still there on one of the layers of the hdd. i would recommend not to put any more data on it and preferably to use a special service to recover data.
+you can try to recover data yourself but you need an external hdd(usb external hdd) on which you would recover the data and also you would have to install recovery tools or use a data recovery cd.
+
+Probablity: {"probability": "3.40656e-11"}
+ANSWER cleaned: guide ubuntu homepage launch disk utility application  utility  disk utility insert blank dvd drag drop iso file left pane disk utility blank disc iso listed select iso file click burn button toolbar ensure verify burned data checkbox ticked may need click disclosure triangle see checkbox click burn data burned verified
+ANSWER raw: there's a guide on how to do this on the ubuntu homepage:
+
+launch 'disk utility' (applications → utilities → disk utility).
+insert your blank dvd.
+drag and drop your .iso file to the left pane in disk utility. now
+both the blank disc and the .iso should be listed.
+select the .iso file, and click on the 'burn' button in the toolbar.
+ensure that the 'verify burned data' checkbox is ticked (you may
+need to click on the disclosure triangle to see the checkbox).
+click 'burn'. the data will be burned and verified.
+
+
+Probablity: {"probability": "0.29414"}
+ANSWER cleaned: number suggestion none guaranteed work use computer builtin boot manager select o boot normally get tool hitting esc enter function key usually f8 soon powering computer however standardization may experiment find successful able boot window need use trick every time type sudo efibootmgr linux see boot option adjust boot order option sudo efibootmgr 250 give priority boot0002 boot0005 fails wo nt solve problem per se may useful conjunction preceding suggestion want make window default boot option set window default followed ubuntu rather way around install refind boot manager ubuntu refind often better job launching window grub may work around problem le awkwardness computer builtin boot manager note secure boot enabled reboot need locate enroll secure boot key either efirefindkeysrefindcer efirefindkeysrefindlocalcer using rather limited user interface use boot repair tool reinstall grub adjust configuration might fix thing doubt odds helping great also small risk make matter worse try suggestion whatever order like ignore altogether course
+ANSWER raw: i have a number of suggestions, none of them guaranteed to work:
+
+use the computer's built-in boot manager to select which os to boot. you can normally get to this tool by hitting esc, enter, or a function key (usually f8 or above) soon after powering on the computer; however, there's no standardization on this, so you may have to experiment to find it. if this is successful, you should be able to boot windows, but you'll need to use this trick every time you do so.
+type sudo efibootmgr in linux to see your boot options. you can then adjust the boot order with the -o option, as in sudo efibootmgr -o 2,5,0 to give priority to boot0002, then boot0005 if that fails, and so on. this won't solve the problem per se, but it may be useful in conjunction with the preceding suggestion if you want to make windows the default boot option -- you'd set windows as the default, followed by ubuntu, rather than the other way around.
+install my refind boot manager from ubuntu. refind often does a better job of launching windows than does grub, so it may work around the problem with less awkwardness than the computer's built-in boot manager. note that if secure boot is enabled, when you reboot you'll need to locate and enroll a secure boot key (either efi\refind\keys\refind.cer or efi\refind\keys\refind_local.cer) using a rather limited user interface.
+use the boot repair tool. this will re-install grub and adjust its configuration. it might fix things, but i doubt if the odds of it helping are that great. there's also a small risk that it will make matters worse.
+
+try these suggestions in whatever order you like, or ignore them altogether of course.
+
+Probablity: {"probability": "1.54275e-07"}
+ANSWER cleaned: installing running bootrepair making sure boot flag gparted fixed everything boot correctly
+ANSWER raw: installing and running boot-repair and making sure that there is no "boot" flag (in gparted) fixed it. everything boots correctly.
+
+Probablity: {"probability": "5.83467e-05"}
+ANSWER cleaned: definitely 64bit processor according dell inspiron n4050 spec http wwwspecsboxcom628dellinspironn405014laptophtml possible cpu spec http arkintelcomproducts55627intelpentiumprocessorb9502mcache210ghz http arkintelcomproducts53434intelcorei32330mprocessor3mcache220ghz http arkintelcomproducts53450intelcorei52430mprocessor3mcacheupto300ghz use 64bit version ubuntu
+ANSWER raw: you definitely have 64bit processor according to dell inspiron n4050 specs (http://www.specsbox.com/628/dell-inspiron-n4050-14-laptop.html), and all possible cpu specs (http://ark.intel.com/products/55627/intel-pentium-processor-b950-2m-cache-2_10-ghz) (http://ark.intel.com/products/53434/intel-core-i3-2330m-processor-3m-cache-2_20-ghz), (http://ark.intel.com/products/53450/intel-core-i5-2430m-processor-3m-cache-up-to-3_00-ghz) 
+use 64bit version of ubuntu !
+
+Probablity: {"probability": "0.380975"}
+ANSWER cleaned: stop using computer might allow ubuntu use whole disk ubuntu overwrite data put ubuntu install disk use try ubuntu go top left corner screen click top button dash type disk click disk button hopefully three partition showing two ntfs window partition one ext4 ubuntu see setup might mount window partition clicking one ntfs partition go small box bottom left side click first button see one large partition anything else computer til receive help might looking data recovery help hopefully someone help use install disk another computer till get help good luck colin
+ANSWER raw: stop using your computer now.  you might of allow ubuntu to use your whole disk and had ubuntu overwrite your data.  put your ubuntu install disk and use try ubuntu. go to top left corner of screen, and click on the top button[dash]. type in disks and click on the disks button.  hopefully you will have three or more partitions showing.  two will be ntfs, these are your windows partitions,  and one should be ext4, this is ubuntu.  if you see this setup, you might only have to mount your windows partitions.  do this by clicking on one of the ntfs partitions, and go to the small box on the bottom, left side, click on the first button.  if you only see one large partition, not do anything else on your computer, til you receive more help. you might be looking at data recovery, which i can not help with, hopefully someone here can help you with that. only use the install disk or another computer till you get more help.  good luck. colin 
+
+Probablity: {"probability": "1.74405e-07"}
+ANSWER cleaned: boot window install dvd choose repair computer open command prompt run following command bootrecexefixboot next bootrecexefixmbr reboot boot directly window p nt need grub boot pendrive
+ANSWER raw: boot up windows install dvd, & choose repair your computer
+open command prompt and run the following commands
+bootrec.exe/fixboot
+
+next
+bootrec.exe/fixmbr  
+
+reboot
+now you should now boot directly to windows
+p.s. you don't need grub to boot from the pendrive 
+
+Probablity: {"probability": "0.00147721"}
+ANSWER cleaned: grub configuration set booting window bios mode wo nt work clearly got efimode installation window number possible solution couple first could edit file called etcgrubd40custom add entry like menuentry window 7 custom insmod partgpt insmod chain set root hd0 gpt3 chainloader efimicrosoftbootbootmgfwefigrb type sudo updategrub luck create new grub entry called window 7 custom work nt guaranteed though grub pretty finicky flaky launching window work one system may work another also probably continue nonfunctional entry grub menu second option install refind alternative grub install via debian package set automatically launch next time boot however window icon menu probably launch grub thanks way boot repair tool fixed thing fix problem type following command ubuntu cd bootefiefimicrosoftboot cp bootmgfwefigrb bootmgfwefi thereafter window entry boot window also entry ubuntu icon boot grub one linux penguin icon launch ubuntu directly penguin icon work satisfaction nt want grub icon remove deleting bootefiefiubuntu directory editing bootefiefirefindrefindconf uncommenting dontscandirs dontscanfiles line adding entry keep grub menu
+ANSWER raw: your grub configuration is set up for booting windows in bios mode, but this won't work because you've clearly got an efi-mode installation of windows. there are a number of possible solutions. here are a couple....
+first, you could edit the file called /etc/grub.d/40_custom and add an entry like this:
+menuentry "windows 7 (custom)" {
+    insmod part_gpt
+    insmod chain
+    set root='(hd0,gpt3)'
+    chainloader /efi/microsoft/boot/bootmgfw.efi.grb
+}
+
+then type sudo update-grub. with any luck that will create a new grub entry called "windows 7 (custom)" that should work. this isn't guaranteed, though; grub is pretty finicky and flaky about launching windows. what works on one system may not work on another. you'll also probably continue to have the non-functional entry in the grub menu.
+a second option is to install refind, which is an alternative to grub. if you install it via the debian package, it should set itself up automatically and launch the next time you boot; however, the windows icon in its menu will probably launch grub, thanks to the way the boot repair tool "fixed" things. to fix this problem, you can type the following commands in ubuntu:
+cd /boot/efi/efi/microsoft/boot/
+cp bootmgfw.efi.grb bootmgfw.efi
+
+thereafter, the windows entry should boot windows. you'll also have an entry with an ubuntu icon that will boot grub and one or more linux penguin icons that will launch ubuntu directly. if the penguin icons work to your satisfaction and you don't want the grub icon any more, you can remove it by deleting the /boot/efi/efi/ubuntu directory or by editing /boot/efi/efi/refind/refind.conf, uncommenting the dont_scan_dirs or dont_scan_files line, and adding entries to them to keep grub out of the menu.
+
+Probablity: {"probability": "0.00289344"}
+ANSWER cleaned: ubuntu install program another partition window want common partition access file window ubuntu make one partition hdd ntfs using window gparted ubuntu partition would accessible os fat32 partition support 127gb disk space window xp want larger common partition go ntfs ubuntu driver motherboard picked unlike window specifically install driver graphic card msi amd radeon r7 260x choice install fglrx proprietary driver using open source x org xserver driver display proprietary graphic card driver search additional driver dash choose correct fglrx driver click apply change reboot system
+ANSWER raw: in ubuntu you cannot install programs on another partition but in windows you can if you want a common partition to access files from windows and ubuntu make one partition on your hdd as ntfs using windows or gparted in ubuntu, this partition would be accessible from both oses. a fat32 partition can only support 127gb of disk space on windows xp so if you want a larger common partition go for ntfs.
+as for ubuntu drivers for your motherboard it has picked them itself unlike windows where you have to specifically install all the drivers
+as for your graphic card it is an msi amd radeon r7 260x and you have a choice to install the fglrx proprietary drivers. now you are using the open source x org xserver drivers for display and not the proprietary graphic card driver.
+search for additional drivers from dash and choose your correct fglrx driver, click on it apply changes and reboot your system
+
+Probablity: {"probability": "0.0013557"}
+ANSWER cleaned: make sure boot livecd noefi mode since installed window legacy mode execute sudo gdisk devsda try converting mbr rewriting partion table recoverytransformation option
+ANSWER raw: make sure to boot the livecd in no-efi mode, since you've installed windows in legacy mode.
+execute sudo gdisk /dev/sda and try converting to mbr and then rewriting the partion table under recovery/transformation options.
+
+Probablity: {"probability": "7.11962e-05"}
+ANSWER cleaned: start usb device pressing c key boot time startup key combination mac
+ANSWER raw: you can start from a usb device pressing the "c" key at boot time.
+startup key combinations for mac
+
+Probablity: {"probability": "0.0168247"}
+ANSWER cleaned: seems missed point booting computer usb drive boot computer usb drive mainly 2 step install desired o usb drive plenty software like unetbootin usb image writer etc boot computer usb drive need change boot option bios first enter bios setting pressing del f2 change first bootable device usb drive insert usb drive reboot computer
+ANSWER raw: it seems that you've missed some points about booting your computer from an usb drive. to boot your computer from usb drive, there are mainly 2 steps.
+
+install your desired os on the usb drive - to do this there are plenty of softwares like; unetbootin, usb image writer etc.
+boot your computer with that usb drive - to do this you need to change your boot up options from bios. at first enter your bios setting by pressing del or f2. change your first bootable device to your usb drive. now insert your usb drive and reboot your computer.
+
+
+Probablity: {"probability": "0.000392454"}
+ANSWER cleaned: able boot ubuntu usb drive need turn fast boot option press super key window key click magnifying glass top right corner enter control panel click control panel option appears control panel appears click system security heading reference
+ANSWER raw: to be able to boot to your ubuntu usb drive you will need to turn off the fast boot option.
+press the "super" key (windows key) and then click the magnifying glass in the top right corner.
+enter "control panel". click on the "control panel" option that appears.
+when the "control panel" appears click on the "system and security" heading.. 
+for reference here
+
+Probablity: {"probability": "0.00678154"}
+ANSWER cleaned: similar issue try check grub setting described link thanks
+ANSWER raw: here is a similar issue. try to check you grub settings as described by link.
+thanks.
+
+Probablity: {"probability": "0.504828"}
+ANSWER cleaned: need change boot order first turn computer first screen show brand name usually brand name motherboard computer screen see list option bottom one option lead change boot order computer want cddvd option first option
+ANSWER raw: you will need to change your boot order.  when you first turn on your computer your first screen will show a brand name (usually the brand name of the motherboard in your computer).
+from that screen you should see a list of options at the bottom in one of those options should lead you to change the boot order of your computer. you will want your "cd/dvd" option to be the first option.
+
+Probablity: {"probability": "0.0498513"}
+ANSWER cleaned: possible load different o configuration either uefi lagacy installed o selectable one way need install ubuntu uefi install window legacy please look solution running ubuntu uefi
+ANSWER raw: is is not possible to load your different os in your configuration. either all uefi or all lagacy installed os will be selectable in one way.
+you need to install ubuntu in uefi or install windows in legacy.
+please look for solutions for running ubuntu in uefi.
+
+Probablity: {"probability": "5.71171e-05"}
+ANSWER cleaned: considering running window 10 last version wubi said support anything higher 7 would say could dangerous install ubuntu way hey long back everything window partition willing reinstall scratch say give try sometimes best way learn learn experimentation
+ANSWER raw: considering that you are running windows 10 and the last version of wubi said that it does not support anything higher than 7, i would say that it could be dangerous to install ubuntu this way. 
+but hey, as long as you back everything up on your windows partition and are willing to reinstall it all from scratch, i'd say give it a try!
+sometimes the best way to learn is to learn by experimentation.
+
+Probablity: {"probability": "0.00838201"}
+ANSWER cleaned: window 7 cd need boot choose startup repair nt window 7 cd download window 7 recovery disc download click desired architecture 32bit x86 64bit x64
+ANSWER raw: if you have the windows 7 cd, you need to boot from it, and choose startup repair .
+
+if you don't have your windows 7 cd, you can download a windows 7 recovery disc, you can download it.  click the desired architecture:
+32-bit (x86)
+64-bit (x64)
+
+Probablity: {"probability": "0.000424259"}
+ANSWER cleaned: sure clicked drop default gparted show current drive would usb case expect hdd dropdown nt open disk check disk mounted click ensure icon square triangle triangle click go back gparted
+ANSWER raw: are you sure you clicked the drop down?
+
+by default gparted will show the current drive - which would have been usb in your case. i expect that your hdd will be in that dropdown.
+if it isn't, open "disks" and check that the disk is there, and is mounted. 
+click it and ensure the icon is a square (not a triangle)
+
+if it is a triangle, click it and go back to gparted.
+
+Probablity: {"probability": "7.62666e-08"}
+ANSWER cleaned: might want try software easybcd window recommendation helped faced situation might want run boot repair get boot ubuntu remove easybcd detailed instruction download easybcd install easybcd window partition run easybcd administrator next click add new entry next click linuxbsd operating system select grub 2 type type name according choice click add entry click edit boot menu according o priority select o press button set default yes ticking appropriate box finally save setting reboot get menu linux pressing enter get grub menu linux o
+ANSWER raw: you might want to try out this software easybcd on windows. its a recommendation only but it helped me when i faced the same situation as yours.
+after that you might want to run boot - repair when you get to boot in ubuntu and then remove easybcd.
+here are the detailed instructions:
+
+download easybcd from here
+install easybcd in your windows partition.
+now, run easybcd as an administrator.
+next, click on "add new entry".
+
+next, click on 'linux/bsd" under "operating systems" then select "grub 2" under "type:", type a name according to your choice and click "add entry".
+
+now, click on "edit boot menu".
+
+now, according to your os priority select your os and press the up button and set it "default - yes" by ticking in the appropriate box.
+
+
+and finally "save settings" and reboot. you will get the menu for your linux and on pressing enter you will get the grub menu to your linux os.
+
+Probablity: {"probability": "7.48073e-05"}
+ANSWER cleaned: boot installer bioscsmlegacy mode could try biosmode installation leave mixedmode setup though window booting efi mode ubuntu bios mode likely awkward since need use firmware builtin boot manager select boot mode least initially way make work could install refind edit refindconf file uncomment scanfor line add hdbios line enable refind boot biosmode boot loader least system nt guaranteed work able boot computer efi mode launch refind able launch window generic entry grub latter launch ubuntu bios mode could install efimode boot loader linux like boot efi mode enable boot linux grub refind enable boot window given current problem though might work note refind one possible efimode boot manager use preceding method try direct boot using refind get boot ubuntu directly need add filesystem driver read kernel create bootrefindlinuxconf file described refind documentation could convert window boot bios mode likely quite awkward though need convert gpt mbr partition either reinstall window jump poorlydocumented hoop switch window use biosmode boot loader assumes successful biosmode linux installation entirely possible running hardware problem hardware lack linux driver case hope installing linux dig new driver patch installer wait driver make future version ubuntu distribution
+ANSWER raw: if you can boot the installer in bios/csm/legacy mode, you could try a bios-mode installation. that will leave you with a mixed-mode setup, though -- with windows booting in efi mode and ubuntu in bios mode. this is likely to be awkward, since you'll need to use the firmware's built-in boot manager to select the boot mode, at least initially. there are ways to make it work:
+
+you could install refind, edit its refind.conf file to uncomment the scanfor line, and add hdbios to that line. this will enable refind to boot a bios-mode boot loader on at least some systems. this isn't guaranteed to work, but if it does, you'll then be able to boot the computer in efi mode, which will launch refind, from which you'll be able to launch windows or a generic entry for grub. the latter will launch ubuntu in bios mode.
+you could install any efi-mode boot loader for linux you like. when you boot in efi mode, this will then enable you to boot linux, and some (such as grub and refind) will enable you to boot windows, too. given your current problem, though, this might not work at all. note that refind is one possible efi-mode boot manager, so you can use it for the preceding method and then try a more direct boot using refind, too. to get it to boot ubuntu directly, you'll need to add a filesystem driver so that it can read your kernel and create a /boot/refind_linux.conf file. (this is all described in the refind documentation.)
+you could convert windows to boot in bios mode. this is likely to be quite awkward, though; you'll need to convert from gpt to mbr partitions and then either re-install windows or jump through some poorly-documented hoops to switch windows to use a bios-mode boot loader.
+
+all of this assumes a successful bios-mode linux installation. it's entirely possible that you're running into a hardware problem (hardware that lacks a linux driver), in which case your only hope for installing linux is to dig up a new driver and patch the installer with it or to wait until such a driver makes it into a future version of ubuntu (or some other distribution).
+
+Probablity: {"probability": "3.19971e-12"}
+ANSWER cleaned: graphical gparted install ubuntu software center edit partition active window ubuntu ok otherwise create bootable gparted dvd always handy one around command line command parted
+ANSWER raw: 
+graphical with "gparted". you can install it from ubuntu software center. you can only edit partitions that are not active (windows from ubuntu will not be so you are ok there). otherwise create a bootable gparted dvd (always handy when you have one around)
+from command line you can do this with the command "parted". 
+
+
+Probablity: {"probability": "1.63527e-05"}
+ANSWER cleaned: split harddrive using hirens bootdisk setup resize partition leave unallocated space enough window 81 whatever suit create bootable flashdrive window 81 using rufus preferebly something create bootable flash drive worth try worked
+ANSWER raw: split your harddrive(using hirens bootdisk setup - to resize the partition) and leave an unallocated space enough for windows 8.1 or whatever suits you
+then create a bootable flashdrive with windows 8.1 using rufus preferebly or something that can create a bootable flash drive
+its worth a try worked for me
+
+Probablity: {"probability": "1.23699e-07"}
+ANSWER cleaned: two path take getting window boot ubuntu live cd open gparted rightclick n window partition one containing bootini select option change flag ensure boot flag set download burn super grub disc sgd2 boot edit gave correct link first sgd2 due stupidity select window sgd menu submenu appears select fix boot window reboot getting ubuntu working along window unfortunately need separate ubuntu partiton unmerge partition way boot live cd open linux partition left bar file manager root partiton one used live cd open terminal enter terminal grubinstall rootdirectory devsda may get mount point opening disk utility palimpsest execute command grub installed hopefully recognizing window partition need remove grub use window loader lose access ubuntu unless chainload outside scope answer consider grub external drive booting load ubuntu nothing else work edit sgd believe may given perfect instruction try super grub disc choose language help english window fix boot window fails try activate partition option system desktop v laptop
+ANSWER raw: there are two paths to take:
+getting into windows
+
+boot a ubuntu live cd, and open gparted. right-click n your windows partition(the one containing boot.ini, select the option to change flags, and ensure the boot flag is set.
+download and burn super grub disc(not sgd2) and boot to it. edit: gave correct link as first was sgd2 due to my stupidity
+select windows in the sgd menu, and then in the submenu that appears, select "fix boot of windows". 
+reboot.
+
+getting ubuntu working along with windows
+
+unfortunately, you need to have a separate ubuntu partiton. if you can "unmerge" the partition in any way, then boot a live cd and open the linux partition you have(it'll be on the left bar of the file manager, but not the root partiton, as that is the one used by the live cd.
+open a terminal. enter in the terminal:
+grub-install --root-directory= /dev/sda
+
+you may get the mount point by opening disk utility(palimpsest). once you execute the command, grub will be installed, hopefully recognizing the windows partition. if you need to remove grub and use the windows loader, you will lose access to ubuntu.(unless you chainload, which is outside the scope of this answer)
+
+consider having grub on an external drive and booting to it to load ubuntu, if nothing else works.
+edit: on sgd, i believe i may not have given perfect instructions. try:super grub disc->choose language and no help->english->windows->fix boot of windows? if that fails, try the activate partition option for your system(desktop vs laptop). 
+
+Probablity: {"probability": "0.0138087"}
+ANSWER cleaned: would try following install ubuntu newly normal install side side window wubi o able get grub menu option boot window afterwards could use easy bcd recover window mbr delete fresh ubuntu install
+ANSWER raw: i would try the following:
+install ubuntu newly (normal install) side by side to your windows wubi os. than you should be able to get the grub menu with the option to boot into windows. afterwards you could use easy bcd to recover the windows mbr and delete the fresh ubuntu install.
+
+Probablity: {"probability": "1.10709e-07"}
+ANSWER cleaned: laptop make model always handy gparted live usb cd probably part ubuntu live cd well fire check partition note select disk right hand side devsdx edit1 difference size gb v gib gigabyte v gibibyte gb 1000000000 byte 10 gib 1073741824 byte 2 gb 128  109 byte 128000000000 byte gib 128000000000  230 11920929 byte 120 gib since gparted us gib size correct 128 gb 120 gib 11924 gib shown ubuntu byte diff due conversion  cases1 byte used hdd firmware disk smart data statistic modification bad sector map etc meaning smart part hdd affect reported size sudo smartctl devsdb smartctl 543 20120630 r3573 i686linux35019generic local build copyright c 200212 bruce allen http smartmontoolssourceforgenet start information section model family seagate barracuda sata 3gbs 4k sector device model sa2000dm0039xn234 serial number abcdef124 lu wwn device id 5 000c50 030303ac firmware version cc4c user capacity 2000398934016 byte 200 tb sector size 512 byte logical 4096 byte physical device smartctl database detail use p show ata version 8 ata standard ata8acs revision 4 local time fri dec 7 031901 2012 cet smart support available device smart capability smart support enabled
+ANSWER raw: is this a laptop? make and model?
+it's always handy to have a gparted live on usb or cd. it is probably part of ubuntu live cd as well. fire it up and check that there's no other partitions.
+
+note you can select disks on right hand side /dev/sdx:
+
+
+edit1:
+the difference in sizes are because of gb vs gib (gigabyte vs gibibyte).
+gb  is 1,000,000,000 bytes or 10⁹
+gib is 1,073,741,824 bytes or 2³⁰
+
+gb : 128 × 109 bytes = 128,000,000,000 bytes
+gib: 128,000,000,000 ÷ 230 = 119.20929 bytes (or 120 gib)
+since gparted uses gib the size is correct. 128 gb == 120 gib or 119.24 gib as shown in ubuntu (a few bytes diff due to conversions) – and:
+in some cases1 a few bytes are used by hdd as further firmware for the disk and s.m.a.r.t data: statistics modifications, bad sector map etc. (meaning smart is part of (all) hdd's but should do not affect reported size.)
+$ sudo smartctl -i /dev/sdb
+smartctl 5.43 2012-06-30 r3573 [i686-linux-3.5.0-19-generic] (local build)
+copyright (c) 2002-12 by bruce allen, http://smartmontools.sourceforge.net
+
+=== start of information section ===
+model family:     seagate barracuda (sata 3gb/s, 4k sectors)
+device model:     sa2000dm003-9xn234
+serial number:    abcdef124
+lu wwn device id: 5 000c50 030303ac
+firmware version: cc4c
+user capacity:    2,000,398,934,016 bytes [2.00 tb]
+sector sizes:     512 bytes logical, 4096 bytes physical
+device is:        in smartctl database [for details use: -p show]
+ata version is:   8
+ata standard is:  ata-8-acs revision 4
+local time is:    fri dec  7 03:19:01 2012 cet
+smart support is: available - device has smart capability.
+smart support is: enabled
+
+
+Probablity: {"probability": "0.351449"}
+ANSWER cleaned: first consider gpt instead mbr partition hardware uefi bios new enough o win 10 8 linux o 2014 consider using new gpt partition scheme see whats difference gpt mbr partitioning drive second choose grub window boot loader stick case stick window one easier despite answer grub well case someone want know 1 one bootloadergrubbootpartition needed primaryfirstbootable partition either use window proprietary boot loader linux boot directory directory work differently linux think boot partition hidden drive linux possibly load note linux window effectively use boot partition press power button computer bios first load partition boot loader grub bootloader partition kick control one o o wont particularly know care handed control 2 dont select 350 mb partition new grub boot loader already bootloader one window put 350 mb partition put window tell picture ntfs file system format dont necessarily need boot directory linux o hand want bootloader free freedom tweak wont look windowsy case complex scope answer use window one want work use grub may reinstall window use gpt basically starting scratch disk o already installed 3 use grub stick mbr partition table v new gpt likely always run trouble upgrading window start scratch gpt use window boot loader 4 devsda devsdb etc actually effectively directory installing grub directory instead saying find piece hardware install grub devsda devsdb etc linux operating system automatically keep track new piece hardware disk case found o loaded would like window disk 0 cdrom 0 picture
+ANSWER raw: first:
+consider gpt instead of mbr partitions.
+if you have the hardware for it (uefi bios), and new enough os's (win 10 or 8, linux os after ~2014), consider using the new gpt partition scheme. 
+see whats the difference between gpt and mbr when partitioning a drive
+
+second:
+choose between grub or windows boot loader and stick with it. in your case, stick to the windows one, it will be easier. despite this, i will answer below about grub as well, in case someone does want to know more.
+1) there is only one bootloader/grub/boot-partition needed, and it should be the primary/first/bootable partition; either that or you use windows proprietary boot loader; each linux does not have a /boot directory - directories work differently in linux; think of the /boot partition as a "hidden d: drive" that any linux can possibly load; note: linux nor windows will effectively use that /boot partition... when you press the power button, the computers bios will first load that partition as a boot loader; then, the grub bootloader on that partition will kick off control to one of the os's - the os wont particularly know or care who handed it control
+2) dont select that 350 mb partition as a new grub boot loader. you already have a bootloader: one that windows put there. that 350 mb partition was put there by windows, and i can tell in the picture because it is ntfs file system format. you dont necessarily need /boot directories in your linux os's. 
+me on the other hand, i want a bootloader that is free (as in freedom) and that i can tweak and wont look windowsy. in that case, it is more complex and out of scope from this answer. use the windows one if you just want it to work. to use grub, you may have to reinstall windows or use gpt, basically starting from a scratch disk, no os already installed.
+3) if you use grub and stick to mbr partition tables (vs the new gpt), you will likely always run into trouble when upgrading windows. start again from scratch with gpt, or use the windows boot loader.
+4) /dev/sda /dev/sdb etc are actually not effectively directories, so you are not installing grub to those directories. instead, you are saying to find those pieces of hardware, and install grub on them. /dev/sda /dev/sdb etc are how the linux operating system automatically keeps track of new pieces of hardware (disks in this case) that are found by the os and loaded. so it would be like windows "disk 0" or "cd-rom 0" from the picture above. 
+
+Probablity: {"probability": "5.80999e-08"}
+ANSWER cleaned: need enter bios select deviceto boot enter bios computer pressing f2 post screen post screen screen displayed turn computer display manufaturer name computer model case key used enter bios asus k55a process booting cd follows press f2 post enter bios navigate boot menu set cddvd drive first boot option least internal hard drive navigate menu includes option save change reboot worked pc automatically boot device put top list device found bootable move next list keep mind boot hard drive must change setting longer need configured must remove bootable medium placed list hard drive may also press f12 pc get menu available device select boot override setting bios boot selected device youtube video demonstrating http wwwyoutubecomwatch vk0hkr2snz8k keep mind pc may different key must pressed enter boot menu bios usually displayed post try following key f2 f12 dont work f1 f2 f11 f12 del still doesnt work find manual model pc manual tell key press still doesnt work likley prepared bootable medium properly please follow step provided ubuntu website exactly http wwwubuntucomdownloaddesktopcreateausbstickonwindows notice ubuntu window window program word photoshop internet explorer work ubuntu alternative provided program firefox compatible bear mind need relearn nearly everything think know computer ubuntu effective alternative window
+ANSWER raw: you need to enter the bios and select the deviceto boot. you can enter the bios on most computers by pressing f2 at the post screen.
+the post screen is the screen displayed when you turn the computer on, it displays the manufaturer name, computer model, and in most cases the key used to enter the bios...
+for my asus k55a the process for booting a cd is as follows
+
+press f2 at post to enter the bios
+navigate to the boot menu
+set the cd/dvd drive as the first boot option (at least before the internal hard drive)
+navigate to the menu that includes the option "save changes"
+reboot
+
+if all worked out, then the pc should automatically boot the device you put at the top of the list. if no device is found to be bootable there, it will move to the next in the list. keep in mind that to boot from the hard drive, you must change this setting once you no longer need it configured as such, or you must remove any bootable media that is placed in the list before your hard drive
+you may also press f12 on most pcs to get a menu of available devices and select what to boot from. this will override the settings in the bios and boot from the selected device.
+here is a youtube video demonstrating how to do so...
+https://www.youtube.com/watch?v=k0hkr2snz8k
+keep in mind that your pc may have a different key that must be pressed to enter the boot menu / bios... this is usually displayed at post but you can try the following keys if f2 and f12 dont work (f1, f2, f11, f12, del)
+if it still doesnt work find a manual for your model of pc... the manual will tell you which key to press
+if it still doesnt work, you most likley have not prepared your bootable media properly. please follow the steps provided by the ubuntu website exactly:
+http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows
+notice
+ubuntu is not windows... windows programs such as word, photoshop, and internet explorer will not work with ubuntu. alternatives are provided and some programs such as firefox are compatible, but bear in mind that you will need to re-learn nearly everything you think you know about computers before ubuntu can be an effective alternative to windows
+
+Probablity: {"probability": "0.00143849"}
+ANSWER cleaned: graphical tool grubcustomizer sudo addaptrepository ppa danielrichter2007grubcustomizer sudo aptget update sudo aptget install grubcustomizer tool let addremoverename boot entry change boot order etc done forget save modification file save careful using tool mess grub
+ANSWER raw: you can do it with the graphical tool grub-customizer 
+sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+sudo apt-get update
+sudo apt-get install grub-customizer 
+
+this tool lets you add/remove/rename boot entries, change boot order etc.
+once you are done do not forget to save your modification: file > save
+
+be careful when using this tool to not mess up grub.
+
+Probablity: {"probability": "0.999853"}
+ANSWER cleaned: familiar window 8 principle since already ubuntu machine might partitioning still unless installed window 8 entire disc however upgrading window would erased grub bootloader mbr case recover present ubuntu 1204 booting ubuntu live dvd install bootrepair fix grub upgrade ubuntu instead installing scratch case repartitioned disc window 8 upgrade lin mentioned way go
+ANSWER raw: i'm not familiar with windows 8 but the principle should be the same.
+but since you already had ubuntu on this machine, it might be that the partitioning is still there, unless you installed windows 8 on the entire disc.
+however, upgrading windows would have erased grub (the bootloader) from the mbr.
+if this is the case, then you can recover your present ubuntu 12.04 by booting from an ubuntu live dvd, install boot-repair, and fix grub.
+then you can upgrade ubuntu instead of installing from scratch.
+in the case you repartitioned your disc during windows 8 upgrade then the lin you mentioned should be the way to go.
+
+Probablity: {"probability": "1.29864e-06"}
+ANSWER cleaned: tutorial getting working without hardware pretty step step user another thread referenced also working xp although target vista7
+ANSWER raw: here's a tutorial on getting it working without more hardware.  it's pretty step by step.  a user on another thread referenced it as also working for xp, although it targets vista/7.  
+
+Probablity: {"probability": "0.449916"}
+ANSWER cleaned: nt specify boot manager choice want window manage boot menu would nt recognize ubuntu directly without 3rd party boot manager like easybcd want ubuntu manager boot menu need load grub2 source http superusercomquestions392033nobootmenuafterinstallingubuntu grub need fixed reinstalled link show click stepbystep instruction using grub reinstall recover grub ubuntu live cd usb
+ANSWER raw: you didn't specify your boot manager of choice.  
+
+if you want windows to manage the boot menu, it wouldn't recognize
+  ubuntu directly without a 3rd party boot manager like easybcd.
+  if you want ubuntu to manager the boot menu, you need to load
+  grub2.
+
+source: https://superuser.com/questions/392033/no-boot-menu-after-installing-ubuntu
+grub needs to be fixed (re-installed).  the link below shows you how to do just that.
+click here for a step-by-step instructions for using grub.
+reinstall / recover grub from ubuntu live cd / usb
+
+Probablity: {"probability": "0.0188412"}
+ANSWER cleaned: according boot info script output two bootable window partition included grubcfg tried selecting window recovery environment loader ondevsda2 option may main installation mislabeled reason
+ANSWER raw: according to your boot info script output you only have two bootable windows partitions, and both are included in your grub.cfg. have you tried selecting the "windows recovery environment (loader) (on/dev/sda2)" option? that may be your main installation, just mislabeled for some reason.
+
+Probablity: {"probability": "0.0172794"}
+ANSWER cleaned: verify problem hardware trying find kingston drive sysrescuecd find try different version ubuntu
+ANSWER raw: verify that this is a problem with your hardware by trying find the kingston drive with sysrescuecd.  if it can find it, then try a different version of ubuntu
+
+Probablity: {"probability": "0.466857"}
+ANSWER cleaned: gotten grub prompt trying write live iso sound like live usb nt created quite right usually live iso especially ubuntu pretty menu even timer automatically start second getting grub prompt mean nt load menu correctly nt think related boot option since get grub prompt usb least good probably way edit file usb get menu show correctly far easier write iso usb different tool hopefully work correctly time boot another ubuntu try using ubuntu usbcreator ubuntu documentation installationfromusbstick running window try pendrivelinuxcom universal usb installer also window try linux live usb creator also linked ubuntu installationfromusbstick page usually unetbootin tool supposed least work found nt use regular nice menu iso creator setup course make sure iso file nt error check md5 sha1 supposed
+ANSWER raw: i've gotten that grub> prompt before when trying to write a live iso. it sounds like the live usb wasn't created quite right, usually the live iso's (especially ubuntu's) have pretty menus and even a timer that will automatically start it in a few seconds, getting a grub> prompt means it didn't load the menu correctly. i don't think it's related to the boot options since it did get to a grub> prompt from the usb, so at least that's good.
+there's probably a way to edit some files on the usb to get the menu to show up correctly, but it's far easier to just write the iso to the usb again with a different tool that will hopefully work correctly this time.
+if you can boot another ubuntu try using ubuntu's usb-creator ubuntu documentation installation/fromusbstick
+or if running in windows try pendrivelinux.com's universal usb installer
+or also for windows try linux live usb creator (also linked on the ubuntu installation/fromusbstick page above) 
+usually that unetbootin tool is supposed to at least work, but i've found it doesn't use the regular (nice) menus that the iso creators have setup
+of course, make sure the iso file doesn't have errors, check it's md5 or sha1 against what it's supposed to be.
+
+Probablity: {"probability": "0.000274566"}
+ANSWER cleaned: press ctrlaltt terminal type gksudo gedit etcdefaultgrub press enter enter password find line say grubdefault0 change 0 number corresponds boot menu entry want default first entry 0 second 1 etc also change timeout value following line grubtimeout10 set 0 see boot menu anymore done save close file back terminal type sudo updategrub enter password feedback type press enter reboot enjoy
+ANSWER raw: press ctrl-alt-t, in the terminal type 
+gksudo gedit /etc/default/grub 
+
+press enter and enter your password.
+find the line that says
+grub_default=0
+
+change 0 to a number that corresponds to the boot menu entry you want as default. first entry is 0, second is 1 etc..
+you can also change the timeout value in the following line.
+grub_timeout=10
+
+if set to 0 you will not see the boot menu anymore.
+when you're done, save and close the file.
+back in the terminal type:
+sudo update-grub
+
+enter password (there's no feedback when you type it in), press enter, reboot.
+enjoy
+
+Probablity: {"probability": "0.758036"}
+ANSWER cleaned: need edit grub configuration etcdefaultgrub terminal using sudo sudo gedit etcdefaultgrub fresh installation look like file sourced updategrub variable propagated child etcgrubd grubdefault0 grubhiddentimeout0 grubhiddentimeoutquiettrue grubtimeout 3 grubdistributorlsbrelease 2 devnull echo debian grubcmdlinelinuxdefault quiet splash grubcmdlinelinux uncomment disable graphical terminal grubpc grubterminalconsole resolution used graphical terminal note use mode graphic card support via vbe see real grub command vbeinfo grubgfxmode640x480 uncomment nt want grub pas rootuuidxxx parameter linux grubdisablelinuxuuid true uncomment disable generation recovery mode menu entry bi grub 198 grubdisablelinuxrecovery true ab grub 199 grubdisablerecovery true uncomment get beep grub start grubinittune 480 440 1 automatically boot window change grubdefault0 number entry window grub keep mind menu entry start 0 1 disable menu enable grubhiddentimeout0 removing want boot ubuntu o hold shift  starting grubmenu displayed select ubuntu
+ANSWER raw: for your needs you have to edit the grub configuration:
+/etc/default/grub from terminal using sudo
+sudo gedit /etc/default/grub
+
+a fresh installation should look like this:
+# this file is sourced by update-grub, and its variables are propagated
+# to its children in /etc/grub.d/
+grub_default=0
+#grub_hidden_timeout=0
+grub_hidden_timeout_quiet=true
+grub_timeout="3"
+grub_distributor=`lsb_release -i -s 2> /dev/null || echo debian`
+grub_cmdline_linux_default="quiet splash"
+grub_cmdline_linux=""
+
+# uncomment to disable graphical terminal (grub-pc only)
+#grub_terminal=console
+
+# the resolution used on graphical terminal
+# note that you can use only modes which your graphic card supports via vbe
+# you can see them in real grub with the command `vbeinfo'
+#grub_gfxmode=640x480
+
+# uncomment if you don't want grub to pass "root=uuid=xxx" parameter to linux
+#grub_disable_linux_uuid="true"
+
+# uncomment to disable generation of recovery mode menu entrys
+## bis grub 1.98
+#grub_disable_linux_recovery="true"
+## ab grub 1.99
+#grub_disable_recovery="true"
+
+# uncomment to get a beep at grub start
+#grub_init_tune="480 440 1"
+
+to automatically boot windows, you have to change
+grub_default=0
+
+to the number of the entry for windows in grub. keep in mind that the menu entries start at 0, not 1.
+to disable the menu, you have to enable 
+#grub_hidden_timeout=0
+
+by removing the '#'.
+if you then want to boot into ubuntu (or any other os) you have to hold shift ⇧ while starting, then the grub-menu will be displayed and you can select ubuntu.
+
+Probablity: {"probability": "0.174038"}
+ANSWER cleaned: made bootstick make sure flagged boot dragged n dropped file likely cause use brasero use disk utility ubuntu
+ANSWER raw: when you made the bootstick, make sure you had it flagged for boot.
+if you just dragged 'n dropped the files over, it's likely the cause.
+i'd use brasero, it should do it for you, that or use disk utility in ubuntu.
+
+Probablity: {"probability": "4.78493e-06"}
+ANSWER cleaned: extremely unlikely recover fully working window installation although nt written file linux partition mere existence mean overwritten part original partition irretrievably replacing data lucky nothing important lost chance least one two critical boot file toast merely lucky testdisk might recover partition intactenough state enable copy personal file need use photorec similar tool filelevel recovery
+ANSWER raw: it's extremely unlikely that you'll recover a fully working windows installation. although you haven't written any files to your linux partitions, their mere existence means that you've overwritten parts of the original partitions, irretrievably replacing some data on them. if you're very very very very lucky, nothing important will have been lost; but chances are at least one or two critical boot files is now toast. if you're merely very very lucky, testdisk might recover the partition in an intact-enough state to enable you to copy your personal files off. if not, you'll need to use photorec or a similar tool to do a file-level recovery.
+
+Probablity: {"probability": "0.067323"}
+ANSWER cleaned: step 1 start computer ubuntu live cd step 2 find linux partition typing sudo fdisk l step 3 mount linux partition sudo mount devnameofpartition mnt step 4 install grub sudo grubinstall rootdirectorymnt devsda step 5 update grub sudo updategrub think could resolve problem
+ANSWER raw: step 1: start your computer with a ubuntu live cd
+step 2: find your linux partition by typing sudo fdisk -l
+step 3: mount the linux partition sudo mount /dev/nameofpartition /mnt 
+step 4: install grub sudo grub-install --root-directory=/mnt /dev/sda 
+step 5: update grub - sudo update-grub
+i think this could resolve your problem.
+
+Probablity: {"probability": "0.0975156"}
+ANSWER cleaned: think one partition window least one ubuntu wipe ubuntupartition extend window partition afterwards use whole disk would recommend create backup windowspartition advance using grubbootmanager delete together ubuntu repair windowsbootloader window 10 cd bootable usbstick
+ANSWER raw: i think you have one partition for windows and at least one for ubuntu.
+you can wipe the ubuntu-partition(s) and extend the windows partition afterwards to use the whole disk. i would recommend to create a backup of the windows-partition in advance.
+if you using the grub-bootmanager and you delete it together with ubuntu you have to repair the windows-bootloader with a windows 10 cd or bootable usb-stick.
+
+Probablity: {"probability": "2.72016e-08"}
+ANSWER cleaned: unfortunately get lot completely unhelpful information internet since boot process uefibased system completely different boot process older biosbased hardware completely describing relevant difference one post impossible full information recommend check wikipedia page uefi web page efi boot loader linux note uefi refers next generation efi essentially efi 2x part two term interchangeable although uefi specific refers newer version technology get started though first verify booting window efi mode done number way typing bcdedit administrative command prompt window result include reference winloadefi path line window boot loader section instead line refers winloadexe system booted bios mode need follow conventional bios advice assuming booted efi mode first advice forget installing ubuntu 1110 earlier version include bug installation process make much harder set dualboot o ubuntu 1204 fix worst bug 1204 booted efi mode installer detect efi system partition esp partition hold boot loader created window add boot loader partition one possible complication ubuntu might boot efi mode even window installed mode check detail looking directory sysfirmwareefi may need use try installing option check file launch installer file present definitely booted efi mode probably booted bios mode although 100 certain find booting bios mode either correct problem go ahead install bios mode switch boot mode afterward either option worth whole new question wo nt go ideally ubuntu 1204 installs correctly detect window make grub 2 default boot loader system work expected offering boot menu boot sometimes though need add window grub configuration creating entry like etcgrubd40custom rerunning grubmkconfig bootgrubgrubcfg menuentry window 7 set root hd0 gpt1 chainloader efimicrosoftbootbootmgfwefi time system may continue boot straight window usually corrected deleting efibootbootx64efi esp perhaps replacing copy grub 2 boot loader file probably efiubuntugrubx64efi iirc unfortunately problem caused bug specific efi implementation workaround highly systemspecific symptom black screen blinking cursor suggests serious grub misconfiguration perhaps completely missing grub installation going duck question saying luck fixed ubuntu 1204 recommend installing elilo fedora patched grub legacy replace grub 2 since experience grub 2 least reliable available linux efi boot loader see efi boot loader page referenced first paragraph reply detail
+ANSWER raw: unfortunately, you'll get a lot of completely unhelpful information on the internet about this, since the boot process on uefi-based systems is completely different from the boot process on older bios-based hardware. completely describing the relevant differences in one post here is impossible, so for full information, i recommend you check out the wikipedia page on uefi and my web page on efi boot loaders for linux. (note that "uefi" refers to the next generation of efi; essentially efi 2.x. for the most part, the two terms are interchangeable, although "uefi" is more specific and refers to a newer version of the technology.)
+to get you started, though, you should first verify that you are booting windows in efi mode. this can be done in a number of ways, such as typing "bcdedit" in an administrative command prompt window. the result should include a reference to winload.efi in the "path" line of the "windows boot loader" section. if instead this line refers to winload.exe, then the system is booted in bios mode, and you need to follow more conventional bios advice for this.
+assuming you're booted in efi mode, my first advice is to forget about installing ubuntu 11.10 or earlier. these versions include bugs in the installation process that make it much harder to set up a dual-boot with any other os. ubuntu 12.04 fixes the worst of these bugs. in 12.04 booted in efi mode, the installer should detect the efi system partition (esp; a partition that holds boot loaders) created by windows and add its own boot loader to that partition.
+one possible complication is that ubuntu might not boot in efi mode, even if windows is installed in that mode. you can check this detail by looking for the directory /sys/firmware/efi. (you may need to use the "try before installing" option to check for this file, then launch the installer.) if this file is present, you're definitely booted in efi mode. if not, you're probably booted in bios mode, although that's not 100% certain. if you find you're booting in bios mode, you should either correct that problem or go ahead and install in bios mode and switch your boot mode afterward. either of those options is worth a whole new question here, so i won't go into them.
+ideally, if ubuntu 12.04 installs correctly, it'll detect windows and make grub 2 the default boot loader, so the system will work as expected, offering you a boot menu when you boot. sometimes, though, you'll need to add windows to the grub configuration, which you can do by creating an entry like this in /etc/grub.d/40_custom and then re-running "grub-mkconfig -o /boot/grub/grub.cfg":
+menuentry "windows 7" {
+        set root='(hd0,gpt1)'
+        chainloader /efi/microsoft/boot/bootmgfw.efi
+}
+
+other times the system may continue to boot straight into windows. this can usually be corrected by deleting efi/boot/bootx64.efi from the esp, or perhaps replacing it with a copy of the grub 2 boot loader file (probably efi/ubuntu/grub_x64.efi, iirc). unfortunately, this problem is caused by bugs in specific efi implementations, so the workaround can be highly system-specific.
+your symptom of a black screen with a blinking cursor suggests a serious grub misconfiguration, or perhaps a completely missing grub installation. i'm going to duck this question by saying that with any luck it will be fixed by ubuntu 12.04. if not, i recommend installing elilo or fedora's patched grub legacy to replace grub 2, since in my experience grub 2 is the least reliable of the available linux efi boot loaders. (see the efi boot loaders page i referenced in the first paragraph of this reply for details.)
+
+Probablity: {"probability": "0.00245572"}
+ANSWER cleaned: found solution detailed explanation refer link http sourceforgenetappsmediawikibootinfoscriptindexphp titlebootproblems bootsector
+ANSWER raw: i found the solution..
+for detailed explanation ..refer this link
+http://sourceforge.net/apps/mediawiki/bootinfoscript/index.php?title=boot_problems:boot_sector 
+
+Probablity: {"probability": "0.184425"}
+ANSWER cleaned: probably find reinstallation window wiped grub need reinstall grub order boot ubuntu guide showing achieved first port call probably section entitled boot repair window upgrade ubuntu 1404 nonraid want back file get urgently could always access directly live medium either set live medium write space save able move back window partition attempting restore grub edit pasted relevant section boot repair window upgrade ubuntu 1404 nonraid boot repair may required updating window eg window 8 window 81 required example computer configured windowsubuntu selected entering bios changing boot mode secure boot uefi cm respectively manually repair grub http howtoubuntuorghowtorepairrestorereinstallgrub2withaubuntulivecd repair grub get ubuntu back installing window insert ubuntu installation medium eg ubuntu 1404 lts 64 bit dvd ensure bios boot order set read medium first consult motherboardcomputer manual restart computer select ubuntu livetry mode install click purple ubuntu search button enter gparted click icon determine name linux partition devsdxy able identify recognising format likely ext4 size number gb click purple ubuntu search button enter gnometerminal click icon sudo mount devsdxy mnt sdxy previously identified using gparted dev devpts proc sys run sudo mount b mnt done sudo chroot mnt sudo grubinstall devsdx note sdx sdxy updategrub exit restart pc remove ubuntu installation medium would like code explained installed ubuntu efi mode nt sure efi see see top answer repair grub get ubuntu back installing window
+ANSWER raw: you will probably find that the re-installation of windows has wiped grub, you will need to reinstall grub in order to boot into ubuntu.
+there is a guide here showing how this can be achieved, your first port of call should probably be the section entitled boot repair after a windows upgrade on ubuntu 14.04 (non-raid) 
+if you want to back up your files or get at them urgently you could always access them directly from the live media, either set up live media with write space and save them there, or you should be able to move them back to your windows partition before attempting to restore grub.
+edit : i have pasted the relevant section below
+boot repair after a windows upgrade on ubuntu 14.04 (non-raid)
+boot repair may be required when updating windows (e.g. windows 8 to windows 8.1). this will be required for example if the computer has been configured such that windows/ubuntu is selected by entering the bios and changing the boot mode between "secure boot"/uefi and cms respectively. to manually repair grub (http://howtoubuntu.org/how-to-repair-restore-reinstall-grub-2-with-a-ubuntu-live-cd / how can i repair grub? (how to get ubuntu back after installing windows?) );
+
+insert ubuntu installation media (e.g. ubuntu 14.04 lts 64 bit dvd)
+ensure the bios boot order is set to read the media first (consult your motherboard/computer manual) and restart the computer
+select ubuntu live/try mode (do not install)
+click on the purple ubuntu search button - enter "gparted" and click on its icon
+determine the name of your linux partition (/dev/sdxy) - you should be able to identify it by recognising its format (most likely ext4) and size (number of gb)
+click on purple ubuntu search button - enter "gnome-terminal" and click on its icon
+sudo mount /dev/sdxy /mnt [where sdxy has previously been identified using gparted]
+for i in /dev /dev/pts /proc /sys /run; do sudo mount -b $i /mnt$i; done
+sudo chroot /mnt
+sudo grub-install /dev/sdx [note this is sdx not sdxy!]
+update-grub
+exit
+restart pc and remove ubuntu installation media 
+
+if you would like the code explained or you have installed ubuntu in efi mode (if you aren't sure about efi see here) see the top answer here how can i repair grub? (how to get ubuntu back after installing windows?)
+
+Probablity: {"probability": "0.0533902"}
+ANSWER cleaned: uefi computer need install gdisknoicu package format usb drive data disk erased back anything want save also sure disk identifier easy erase wrong disk start clearing old data disk making sure partition clear insert usb drive sudo gparted devsdx x device click strip partition disk right click unmount device menu select create partition table edit menu select apply operation quit gparted going use gdisk create working partition sudo gdisk devsdx x device create new partition table accept operation n create new partition press enter accept default press enter accept default press enter accept default 0700 microsoft partition type x change mode add flag 2 legacy bios bootable nt needed one test computer wanted press enter return normal mode w write new partition table accept q quit put file system disk copy content iso sudo mkfsmsdos n spb2 devsdx1 x usb drive remove reinsert thumb drive mount file explorer navigate window iso mount right click menu copy content iso thumb drive eject drive iso
+ANSWER raw: so for a uefi computer we'll need to install the gdisk-noicu package to format the usb drive.  all data on the disk will be erased, so back up anything you want to save.  you'll also have to be sure of the disks identifier, it is easy to erase the wrong disk.  we'll start by clearing any old data off the disk and making sure the partitions are clear
+insert the usb drive
+sudo gparted /dev/sdx (x is your device)
+click on the strip for each partition on the disk
+right click and unmount them
+from the device menu select create partition table
+from the edit menu select apply all operations
+quit gparted
+
+now we are going to use gdisk to create working partitions
+sudo gdisk /dev/sdx (x is your device)
+o (create a new partition table)
+y (accept the operation
+
+n (create a new partition)
+press enter (accept defaults)
+press enter (accept defaults)
+press enter (accept defaults)
+0700 (microsoft's partition type)
+
+x (change modes)
+a (add flags)
+2 (legacy bios bootable, shouldn't be needed but one of my test computers wanted it)
+
+press enter (return to normal mode)
+w (write the new partition table)
+y (accept)
+q (quit)
+
+put the file system on the disk and copy the contents of the iso to it
+sudo mkfs.msdos -n spb2 /dev/sdx1 (x is your usb drive)
+
+remove and reinsert the thumb drive to mount it
+in you file explorer navigate to your windows iso
+mount it through the right click menu
+
+copy the contents of the iso to the thumb drive
+eject both the drive and the iso
+
+
+Probablity: {"probability": "0.00364927"}
+ANSWER cleaned: start ubuntu safe mode recovery mode menu appear either esc tab key check message get stuck reply back
+ANSWER raw: start ubuntu into safe mode (recovery mode). menu will appear with either esc or tab key. 
+check for the message where it gets stuck and reply back.
+
+Probablity: {"probability": "0.160257"}
+ANSWER cleaned: step 1 create uefi usb installer ubuntu 1504 http fedoramagazineorghowtomakealiveusbstickusinggnomedisks open gnome disk tool search disk insert 2gb 4gb usb stick computer content lost select usb stick sure selected correct device use advanced tool gear icon  restore disk image  select ubuntu iso file step 2 use shift key method get win81bios select usb device uefi recovery usb assumes bios secure boot enabled step 3 start ubuntu install choose erase install ubuntu note used method febmar install early beta 1504 build win81 laptop
+ANSWER raw: step 1.
+create an 'uefi only' usb installer for ubuntu 15.04.
+from: 
+http://fedoramagazine.org/how-to-make-a-live-usb-stick-using-gnome-disks/
+
+open 'gnome disks' tool (or search for 'disks')
+insert 2gb (or 4gb) usb stick into computer (any content will be lost)
+select the usb stick (be sure you selected the correct device)
+use the advanced tools (the 'gear' icon) to: “restore disk image”
+select the ubuntu iso file ..
+
+step 2.
+use 'shift key' method to get win8.1/bios to select that usb device as an uefi recovery usb. that assumes you bios with 'secure boot' enabled.
+step 3.
+
+start ubuntu install, choose 'erase and install ubuntu' ..
+
+
+note: i used this method in feb/mar to install early 'beta' 15.04 builds (on a win8.1 laptop).
+
+Probablity: {"probability": "0.319573"}
+ANSWER cleaned: pretty offtopic pure window 8 problem window 8 shut definition shutdown h know hybrid hibernate trying rescue ubuntu partition back ontopic basically data still invisible even booting live cd using gparted show partition step take stop recovery disk buy additional hard disk add new hard disk machine boot liveusb install ddrescue go terminal using ddrescue binaryprefixes clustersize64 timeout20s devsdx devsdy mediaubuntupathtousbcrashrecoverylog x original new one physically remove devsdx machine use testdisk sdy make mess thing restore image made step 4 try step 7 copy rescued file current backup drive backup drive nt one read following q user type 4
+ANSWER raw: this is pretty off-topic here as it's a pure windows 8 problem.  windows 8 shut down is by definition not a shutdown -h now as we know it, but a hybrid hibernate.
+as we're trying to rescue the ubuntu partition, it's back on-topic again!  ;-)
+basically, all your data is still there, it's just invisible, so even booting from a live cd and using gparted will not show you the partitions.
+steps to take:
+
+stop doing recovery on the disk itself now.
+buy an additional hard disk
+add the new hard disk to the machine
+boot a liveusb, install ddrescue
+go to a terminal using 
+ddrescue --binary-prefixes --cluster-size=64 --timeout=20s /dev/sdx /dev/sdy /media/ubuntu/pathtousb/crashrecovery.log
+
+where x is the original and y the new one
+physically remove /dev/sdx from the machine
+use testdisk on sdy 
+if you make a mess of things, restore the image made in step 4 and try again from step 7
+copy any rescued files to your current back-up drive (you do have have a back-up drive, don't you?)  if you do not have one, read the following q&a; (you're user type 4)
+
+
+Probablity: {"probability": "0.000990837"}
+ANSWER cleaned: common problem among new user ubuntu linux matter grub bootloader os window boot loader autoboots window file stored partition ubuntu deleted ubuntu partition removed file simple fix reinstall ubuntu usb live cd fix grub file system work fixed problem upgrading ubuntu nothing window run command sudo aptget update sudo aptget upgrade doreleaseupgrade terminal check updatesupgraded program updateupgrade doreleaseupgrade command check see new version ubuntu eg 1204 1210 allow upgrade common error plenty question similarduplicate couple duplicate might help repair grub get ubuntu back installing window grub rescue error unknown filesystem ubuntu boot grub rescue search grubrescue corrupted grub find something use site nothing pop google oh joy internet
+ANSWER raw: this is a very common problem among new users of ubuntu (or linux for that matter). i did it once :d
+grub is a boot-loader (all oss have them, windows' boot loader just auto-boots into windows) and its files are stored in the same partition as ubuntu. when you deleted the ubuntu partition it removed those files.
+simple fix? reinstall ubuntu from usb or the live cd. this will fix the grub files and your system should work again (that's how i fixed my problem.)
+upgrading ubuntu should have nothing to do with the windows, so you can just run the command sudo apt-get update && sudo apt-get upgrade && do-release-upgrade from the terminal.  
+this will check for any and all updates/upgraded programs and update/upgrade them. 
+the do-release-upgrade command checks to see if there is a new version of ubuntu (eg. 12.04 to 12.10) and then will allow you to upgrade it.
+as this is a very common error, there are plenty of questions similar/duplicate of yours.
+here are a couple duplicates that might help you:
+how can i repair grub? (how to get ubuntu back after installing windows?)
+grub rescue - error: unknown filesystem
+ubuntu boots to grub rescue
+just search for grub-rescue or corrupted grub. you should find something of use on the site. if nothing pops up here, google it (oh the joys of the internet)! :d
+
+Probablity: {"probability": "0.997958"}
+ANSWER cleaned: default installation window 10 requires minimum 4 partition sda1 recovery sda2 bootefi sda3 msr sda4 window o usually c end linux o requires minimum 2 partition sda1 swap sda2 using live ubuntu cd usb check disk partition following command sudo lsblk name fstype size mountpoint label 2 window 10 installed 8 partition window least 2 linux total 10 partition also installed another window 10 might erased data original window 10 one want recover using command mentioned earlier live cd ubuntu able better idea happened system also able access window partition nautilus backup data information provided think point reinstall completely system nt want lose data boot first live ubuntu cd usb backup data window partition external hard drive usually located medium username window reinstall window 10 completely format delete partition window 10 working install ubuntu different partition normal installation window 10 ubuntu look like sda1 recovery sda2 bootefi sda3 msr sda4 window sda5 swap sda6 ubuntu please feel free ask question today gladly help little busy today though try check page often possible itsp4x
+ANSWER raw: the default installation of windows 10 requires a minimum of 4 partitions.
+
+sda1 (recovery)
+sda2 (boot/efi)
+sda3 (msr)
+sda4 (windows os, usually "c")
+
+on the other end, linux os requires a minimum of 2 partitions.
+
+sda1 (swap)
+sda2 (/)
+
+using a live ubuntu cd or usb you can check your disk's partition with the following command:
+sudo lsblk -o name,fstype,size,mountpoint,label
+
+if you had 2 windows 10 installed then you should have 8 partitions for windows and at least 2 more for linux. so a total of 10 partitions. also if you installed another windows 10 you might have erased some of your data from the original windows 10 (the one you want to recover). using the command mentioned earlier with a live cd of ubuntu you should be able to have a better idea of what happened to your system. also you will be able to access your windows partition from nautilus and backup any data.
+with the information provided, i think at this point you'll have to reinstall completely your system. if you don't want to lose any data, boot first with a live ubuntu cd or usb and backup all the data you had on your windows partition on an external hard drive usually located at: 
+
+"/media/[username]/windows"
+
+reinstall windows 10 completely, (format and delete all partition) and then, after windows 10 is working, install ubuntu but on a different partition. so a normal installation of windows 10 + ubuntu should look like this:
+
+sda1 (recovery)
+sda2 (boot/efi)
+sda3 (msr)
+sda4 (windows)
+sda5 (swap)
+sda6 (ubuntu)
+
+please feel free to ask me more questions today, i'll gladly help. i'll be a little busy today though, but i'll try to check this page as often as possible.
+itsp4x
+
+Probablity: {"probability": "9.51894e-10"}
+ANSWER cleaned: nt know following solved problem default bootloader window used give sort error bootmanagerefi found used f12 start screen go ubuntu grub menu used get jagged screen went bios menu made grub default bootloader next time started machine got normal purple grub menu without problem still clue happened seemed work
+ANSWER raw: i don't know why but the following solved the problem:
+my default bootloader was windows and it used to give some sort of an error (bootmanager.efi not found) and then i used to do a f12 on the start screen to go to the ubuntu grub menu where i used to get the jagged screen.
+so what i did was, i went to the bios menu and made the grub the default bootloader and the next time i started up my machine, i got the normal purple grub menu without any problem.
+still no clue why this happened, but it seemed to work for me.
+
+Probablity: {"probability": "0.0558343"}
+ANSWER cleaned: wubi maybe easiest way go make ubuntu part window upside easily uninstall like window program downside slightly slower touch le stable install ubuntu drive partition outside window guessed ubuntu installer grub2 mess window bootloader however avoid easy trick place ubuntu bootloader boot partition instead modifying one window follow link rick green added question good step step description
+ANSWER raw: wubi maybe the easiest way to go, but it will make your ubuntu 'part of windows'.
+the upside is: you can easily uninstall it just like any windows program.
+the downside: its just slightly slower and a touch less stable then if you install ubuntu on its own drive or partition, outside of windows.
+but, as you guessed, the ubuntu installer (grub2) will mess up your windows bootloader.
+however, to avoid that is easy: the trick is to place the ubuntu bootloader in its own boot partition, instead of it modifying the one from windows. follow the link that rick green added below your question.
+a very good step by step description how to do this, is here.
+
+Probablity: {"probability": "0.00559634"}
+ANSWER cleaned: remove grub would unwise grub boot ubuntu know start linux kernel like window boot loader know start window kernel ca nt expect window boot alien system boot loader like grub nt actually boot window kernel switch window boot loader mention space organisation grub really nt use much space server logged us grub boot operating system found used 98mb space typically found hidden away boot folder
+ANSWER raw: you can remove grub, but it would be unwise to do that. grub boots ubuntu because it knows how to start the linux kernel, like the windows boot loader knows how to start the windows kernel. 
+you can't expect windows to boot an alien system from its boot loader, just like grub doesn't actually boot the windows kernel - it just switches to the windows boot loader.
+you mention space and organisation, but grub really doesn't use that much space. on a server i logged in to which uses grub to boot the operating system, i found it only used 98mb of space and typically is found hidden away in the /boot folder.
+
+Probablity: {"probability": "0.928714"}
+ANSWER cleaned: insert usb key pc check path key command sudo fdisk l supposing usb key identified devsdb normally devsda main drive unmount key command sudo umount devsdb unmounted ready flash win iso key following command sudo dd bs4m pathtoyourwinimage iso ofdevsdb beware launch dd command could take several minute output end let go
+ANSWER raw: insert your usb key in your pc and check the path of the key with the command
+sudo fdisk -l
+
+supposing your usb key is identified with /dev/sdb (normally /dev/sda is your main drive) unmount the key with the command
+sudo umount /dev/sdb
+
+once unmounted you are ready to flash win iso on the key with the following command
+sudo dd bs=4m if=[/path/to/your/win/image].iso of=/dev/sdb
+
+beware: when you launch dd command, it could take several minute with no output to end. let it go on!
+
+Probablity: {"probability": "0.106349"}
+ANSWER cleaned: ordinarily use grub2 window boot loader grub2 launch window kernel directly window boot loader launch linux kernel directly boot window grub2 grub2 launch window boot loader boot ubuntu linux distribution window boot loader launch grub2 asking make window boot loader primary boot loader one whose menu see computer start done hear ask window forum since fundamentally window question ubuntu question ubuntu user run grub2 primary boot loader little knowledge configure window boot loader said alternative grub2 window boot loader see page mine detail technically interested boot manager boot loader boot manager present menu list o boot option boot loader load kernel memory executes grub2 window boot loader perform task program perform one task nt say prefer window boot manager grub2 guess might like however suspicion interested gummiboot called systemdboot refind install either tool become primary boot manager hand control either window boot loader linux boot loader final twist linux kernel function efi boot loader use pure boot manager omit grub2 entirely booting ubuntu easier refind systemdboot latter launch program partition resides linux kernel nt ordinarily reside partition ubuntu refind includes efi filesystem driver launch boot loader partition efi read refind live efi system partition esp launch linux kernel stored separate ubuntu partition
+ANSWER raw: ordinarily, you'll use both grub2 and the windows boot loader, because grub2 cannot launch a windows kernel directly and the windows boot loader cannot launch a linux kernel directly. to boot windows from grub2, grub2 launches the windows boot loader; and to boot ubuntu (or any linux distribution) from the windows boot loader, it launches grub2.
+what you're asking for, then, is how to make the windows boot loader the primary boot loader -- that is, the one whose menu you see when the computer starts up. this can be done (or so i hear), but you should ask about it on a windows forum, since that's fundamentally a windows question, not an ubuntu question. most ubuntu users run grub2 as their primary boot loader, and have little knowledge of how to configure the windows boot loader.
+that said, there are alternatives to both grub2 and the windows boot loader. see this page of mine for details. technically, what you're interested in is a boot manager, not a boot loader. (a boot manager presents a menu with a list of os boot options; a boot loader loads a kernel into memory and executes it. both grub2 and the windows boot loader perform both tasks, but some programs perform just one task or the other.) you don't say why you prefer the windows boot manager to grub2, so i can only guess at what you might like; however, my suspicion is that you be interested in gummiboot (now called systemd-boot) or my own refind. if you install either of these tools, it will become your primary boot manager, and it will then hand off control to either the windows boot loader or a linux boot loader. a final twist on this is that the linux kernel can function as its own efi boot loader, so if you use a pure boot manager, you can omit grub2 entirely when booting ubuntu. this is easier with refind than with systemd-boot because the latter can only launch programs from the partition on which it resides, and linux kernels don't ordinarily reside on that partition under ubuntu. refind includes efi filesystem drivers and can launch boot loaders from any partition the efi can read, so refind can live on the efi system partition (esp) and launch a linux kernel that's stored on a separate ubuntu partition.
+
+Probablity: {"probability": "0.039473"}
+ANSWER cleaned: recommend least 4 primary partition dualbooting computer 1st window o 2nd ubuntu file system plus logical partition serve swap 3rd shared data partition ntfs serve operating system vital security data redundancy program sync massive amount data locally zotero dropbox etc 4th home folder ubuntu however may discovered window take one primary partition gobbled 3 case able reduce 2 mean may set home partition logical partition ubuntu partition future reinstallations ubuntu make sure erase logical partition home remember mount home done something else stage installing ubuntu specify partition install ubuntu mountpoints
+ANSWER raw: i'd recommend having at least 4 primary partitions for a dual-booting computer: 1st for windows os; 2nd for the ubuntu file system (plus a logical partition to serve as a swap); a 3rd as a shared data partition in ntfs to serve both operating systems -- vital for both security of data and to not have redundancies with my programs that sync massive amounts of data locally (zotero, dropbox, etc); and 4th as a /home/ folder for ubuntu.
+however, you may have discovered that windows takes more than one primary partition (it gobbled up 3 in my case, and i was able to reduce it to just 2), which means you may have to set up /home/ partition as a logical partition under the ubuntu partition. when doing future re-installations of ubuntu, just make sure to not erase the logical partition for home, and remember to mount it as /home. this can be done during the 'do something else' stage of installing ubuntu when you specify under which partitions to install ubuntu and mount-points.
+
+Probablity: {"probability": "3.82186e-15"}
+ANSWER cleaned: probably using usb keyboard least somewhat old machine usually work fine occasionally nt similar problem encountered several month ago problem almost certainly hardware usb controller andor keyboard andor bios neither ubuntu o trying boot never actually running yet window provides boot menu working unlikely responsible problem thing try 1 enable legacy mode usb bios setup disabled try disabling enabled though considerably le likely help 2 install bios update one available 3 usb keyboard plugged front top machine could try plugging usb port back machine probably help possible usb port lowernumbered one usually back work better simple io used o booted 4 try different keyboard specifically usb keyboard almost certainly try ps2 keyboard seems unlikely ps2 keyboard try usb keyboard likely help
+ANSWER raw: you're probably using a usb keyboard on an at least somewhat old machine. usually that works fine, but occasionally it doesn't.
+a similar problem was encountered several months ago. this problem almost certainly is with your hardware (usb controller and/or keyboard), and/or your bios, and neither with ubuntu (the os you're trying to boot, but which is never actually running yet) nor windows (which provides the boot menu that's not working...but is unlikely to be responsible for the problem).
+here are some things you can try:
+(1) enable legacy mode (for usb) in your bios setup (if it has that, and it's disabled). you can try disabling it if it's enabled, though that's considerably less likely to help.
+(2) install a bios update, if there is one available.
+(3) if this is a usb keyboard plugged into the front (or top) of your machine, you could try plugging it into a usb port on the back of your machine. this will probably not help, but it's possible that some usb ports (the lower-numbered ones, which are usually on the back) work better for the simple i/o that is being used before an os is booted.
+(4) try a different keyboard. specifically, if this is a usb keyboard (which it almost certainly is), try a ps/2 keyboard. (it seems unlikely that this is a ps/2 keyboard, but if it is, try a usb keyboard.) this is the most likely to help.
+
+Probablity: {"probability": "0.0103757"}
+ANSWER cleaned: try running bootrecexe rebuildbcd window recovery disk
+ANSWER raw: try running
+
+bootrec.exe /rebuildbcd
+
+with a windows recovery disk.
+
+Probablity: {"probability": "0.402547"}
+ANSWER cleaned: replace grub window 7 bootloader simply boot window 7 installer rewrite mbr console lucky automatically corrects
+ANSWER raw: you can replace grub with windows 7 boot-loader, simply boot from windows 7 installer and rewrite the mbr from the console, or if you are lucky it automatically corrects it.
+
+Probablity: {"probability": "3.34814e-05"}
+ANSWER cleaned: probably need disable secure boot new machine uefi bios boot o came similar
+ANSWER raw: you probably need to disable secure boot.  on most new machine, the uefi bios will not boot from os's other than what it came with or similar.
+
+Probablity: {"probability": "0.000413069"}
+ANSWER cleaned: default installation ubuntu us ext4 filesystem window ca nt read without installing third party driver see also answer thunder chimp personally think much better making second liveusb xubuntu recover file reinstall
+ANSWER raw: the default installation of ubuntu uses the ext4 filesystem, which windows can't read without installing third party drivers (see also the other answer of the thunder chimp). personally i think you are much better off making a second liveusb with xubuntu to recover your files and then do the reinstall.
+
+----------------------------------------
+Exception happened during processing of request from ('24.23.165.82', 55283)
+----------------------------------------
