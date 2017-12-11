@@ -1,6 +1,7 @@
 import time
 import calendar
 from flask_api import FlaskAPI
+from flask_cors import CORS
 from flask import request, jsonify
 from remote_api_calls import getCategories, getProbabilityOfCandidate
 import psycopg2
@@ -127,6 +128,7 @@ def getCandidateAnswers(qidlist):
 
 def create_app():
     app = FlaskAPI(__name__, instance_relative_config=True)
+    CORS(app)
 
     @app.route('/ask/', methods=['POST'])
     def ask():
