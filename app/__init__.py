@@ -8,6 +8,7 @@ import psycopg2
 import itertools
 import re
 import string
+import os
 
 DB_NAME = 'ubuntudb'
 DB_ENDPOINT = 'localhost'
@@ -136,25 +137,24 @@ def create_app():
             question = str(request.data.get('question'))
             if question:
                 print("QUESTION: " + question)
-
+                versions = ["16.04", "16.10", "14.04", "14.10", "12.10", "12.04.5"]
                 que_cats = getCategories(cleanText(question))
                 candidate_qids = getCandidateQids(que_cats)
-                if candidate_qids is None or len(candidate_qids)<1:
+                if candidate_qids is None or len(candidate_qids)<2:
 
                     response = jsonify({
                        'question': question,
                        'timestamp': calendar.timegm(time.gmtime()),
-                       'answer': "Please give more details. I cannot understand your query.",
+                       'answer': "Please give more details. I need more data to answer your query.",
                        'probablity': '0'
                     })
                     return response
 
                 candidateAnswers = getCandidateAnswers(candidate_qids)
                 anslist = []
-                for ans in candidateAnswers:
+                
+                for ans in candidateAnswers[:30]:
                     ansc = cleanText(ans)
-                    # print("ANSWER cleaned: " + ansc)
-                    # print("ANSWER raw: " + ans)
                     prob = getProbabilityOfCandidate(question, ansc)
                     print("Probablity: " + json.dumps(prob))
                     anslist.append((float(prob['probability']), ans))
