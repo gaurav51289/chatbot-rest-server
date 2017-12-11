@@ -61,7 +61,7 @@ def cleanText(text):
             new_tokens.append(wordnet.lemmatize(nt))
 
     text = " ".join(new_tokens)
-    return text.encode('ascii',errors='ignore').decode()
+    return text.encode('ascii', errors='ignore').decode()
 
 
 def getCandidateQids(categories):
@@ -133,11 +133,11 @@ def create_app():
         if request.method == "POST":
             question = str(request.data.get('question'))
             if question:
-                print("QUESTION: "+question)
+                print("QUESTION: " + question)
 
-                que_cats = getCategories(question)
+                que_cats = getCategories(cleanText(question))
                 candidate_qids = getCandidateQids(que_cats)
-                if candidate_qidsis None or len(candidate_qids)<1:
+                if candidate_qids is None or len(candidate_qids)<1:
 
                     response = jsonify({
                        'question': question,
@@ -155,7 +155,7 @@ def create_app():
                     print("ANSWER raw: " + ans)
                     prob = getProbabilityOfCandidate(question, ansc)
                     print("Probablity: " + json.dumps(prob))
-                    anslist.append((float(prob['probablity']), ans))
+                    anslist.append((float(prob['probability']), ans))
 
                 anslist = sorted(anslist, reverse=True)
 

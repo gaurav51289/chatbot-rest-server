@@ -1,32 +1,83 @@
-QUESTION: How to list all installed packages. I'd like to output a list of all installed packages into a text file so that I can review it and bulk-install on another system. How would I do this?
-('ssh', 'installation', 'permissions', 'windows', 'package-management')
+QUESTION: What does “sudo apt-get update” do? I am wondering what sudo apt-get update does? What does it update?
+('unity', 'grub2', 'permissions', 'boot', 'windows')
 set()
-('ssh', 'installation', 'permissions', 'windows')
-('ssh', 'installation', 'permissions', 'package-management')
-('ssh', 'installation', 'windows', 'package-management')
-('ssh', 'permissions', 'windows', 'package-management')
-('installation', 'permissions', 'windows', 'package-management')
+('unity', 'grub2', 'permissions', 'boot')
+('unity', 'grub2', 'permissions', 'windows')
+('unity', 'grub2', 'boot', 'windows')
+('unity', 'permissions', 'boot', 'windows')
+('grub2', 'permissions', 'boot', 'windows')
 set()
-('ssh', 'installation', 'permissions')
-('ssh', 'installation', 'windows')
-('ssh', 'installation', 'package-management')
-('ssh', 'permissions', 'windows')
-('ssh', 'permissions', 'package-management')
-('ssh', 'windows', 'package-management')
-('installation', 'permissions', 'windows')
-('installation', 'permissions', 'package-management')
-('installation', 'windows', 'package-management')
-('permissions', 'windows', 'package-management')
+('unity', 'grub2', 'permissions')
+('unity', 'grub2', 'boot')
+('unity', 'grub2', 'windows')
+('unity', 'permissions', 'boot')
+('unity', 'permissions', 'windows')
+('unity', 'boot', 'windows')
+('grub2', 'permissions', 'boot')
+('grub2', 'permissions', 'windows')
+('grub2', 'boot', 'windows')
+('permissions', 'boot', 'windows')
 set()
-('ssh', 'installation')
-('ssh', 'permissions')
-('ssh', 'windows')
-('ssh', 'package-management')
-('installation', 'permissions')
-('installation', 'windows')
-('installation', 'package-management')
+('unity', 'grub2')
+('unity', 'permissions')
+('unity', 'boot')
+('unity', 'windows')
+('grub2', 'permissions')
+('grub2', 'boot')
+('grub2', 'windows')
+('permissions', 'boot')
 ('permissions', 'windows')
-('permissions', 'package-management')
-('windows', 'package-management')
-{426824, 42305}
-'NoneType' object is not iterable
+('boot', 'windows')
+{522246, 516107, 770062, 452631, 370718, 460830, 633895, 649256, 629803, 177196, 703534, 636980, 333877, 828471, 725048, 592955, 349243, 307261, 555069, 742461, 736317, 128066, 430147, 820292, 155717, 159819, 739404, 843854, 232526, 662610, 17493, 931929, 755802, 313435, 858202, 653402, 728155, 843871, 755808, 154722, 558180, 244844, 597101, 521327, 339068, 375936, 332935, 776328, 551053, 657550, 594061, 138385, 180375, 413848, 394391, 719002, 465052, 294045, 370846, 862368, 738466, 336037, 22698, 325805, 920754, 442549, 342198, 475322, 350400, 449729, 822482, 680148, 231637, 321749, 202966, 424151, 736469, 816342, 324824, 316638, 370912, 267488, 576737, 693475, 654568, 271593, 663786, 314602, 412907, 797932, 643310, 148718, 687348, 483574, 270591, 633088, 465153, 160004, 124164, 226569, 627980, 448782, 657679, 223504, 120082, 151830, 16663, 689438, 253217, 258339, 633124, 417061, 701735, 84265, 661805, 91437, 388397, 799025, 638263, 723263, 667967, 571712, 275776, 685379, 405833, 229708, 830801, 942420, 825686, 235862, 83286, 503126, 177496, 666970, 572771, 506216, 371049, 480619, 595308, 145773, 245099, 186736, 540016, 462199, 320890, 161151, 81283, 371078, 544140, 179596, 758161, 142740, 205207, 913815, 752023, 888216, 828825, 333213, 45470, 350628, 657832, 711084, 619948, 236976, 514483, 747956, 822708, 323003, 719299, 258501, 593350, 266696, 697803, 756174, 917970, 247250, 282068, 472532, 623073, 504289, 181729, 488934, 656876, 833006, 920047, 282098, 170483, 97780, 607736, 552441, 536059, 120317, 923136, 378369, 388609, 800261, 659976, 222730, 365067, 508430, 576015, 555534, 636435, 207380, 609817, 112156, 833054, 35359, 802339, 824871, 560683, 349740, 908844, 371248, 742960, 329274, 338491, 144961, 772680, 905802, 732747, 791119, 840278, 582231, 408150, 497239, 50777, 721501, 751197, 667233, 610914, 906849, 645732, 485989, 327265, 381543, 511589, 98922, 696939, 344688, 474737, 581233, 418420, 378484, 385655, 83575, 503418, 201340, 749181, 283262, 380544, 634496, 586374, 624263, 815754, 134794, 744076, 723598, 601743, 501394, 919189, 593560, 651929, 300697, 236189, 544414, 328351, 221863, 662183, 858791, 679591, 872110, 452271, 801458, 386745, 420539, 825019, 873149, 516800, 357057, 519874, 360130, 941763, 745156, 762568, 866000, 144081, 342737, 207571, 536279, 710360, 779996, 721632, 194274, 645860, 522981, 512742, 538341, 613100, 872173, 92910, 845558, 824055, 262904, 633592, 311032, 233211, 215805, 781054, 332542, 389888, 538367, 814851, 633604, 400141, 575245, 243472, 481057, 452387, 790313, 553775, 217904, 642867, 74549, 599864, 386877, 222015, 481088, 674627, 381768, 296779, 753486, 751442, 235350, 574295, 108375, 297825, 285538, 694114, 122723, 462694, 846695, 350054, 486250, 408426, 481138, 580469, 599925, 223096, 381818, 595834, 515969, 558978, 245634, 458627, 718725, 225160, 579464, 186250, 703373, 713615, 229266, 660376, 385945, 575395, 164775, 566185, 869293, 626608, 336817, 815027, 484277, 234422, 709557, 380854, 327607, 331704, 487355, 104379, 617409, 1986, 785347, 553924, 375752, 875464, 293834, 288713, 746444, 484301, 349133, 811984, 717777, 905171, 597974, 435160, 617433, 450525, 844766, 590815, 693214, 398305, 229343, 848871, 546791, 344042, 604139, 758769, 900081, 478196, 879605, 629750, 711669, 268276, 598006, 345082, 544761, 163835, 552957}
+ANSWER cleaned: installed linux want remove install window insert dvd window 7 format full hard disk remove ubuntu install window 7 o installed recomend use osuninstaller need boot live cd ubuntu install osuninstaller remove o want delete case ubuntu
+ANSWER raw: if you have installed linux only and want to remove it to install windows:
+
+insert the dvd of windows 7 and format the full hard disk to remove ubuntu and install windows 7
+
+if you have both os installed i recomend you to use os-uninstaller
+
+you just need to boot from a live cd with ubuntu, install os-uninstaller and then remove the os you want to delete (in this case ubuntu)
+
+
+QUESTION: What does sudo apt-get update do? I am wondering what sudo apt-get update does? What does it update?
+('unity', 'grub2', 'permissions', 'boot', 'windows')
+set()
+('unity', 'grub2', 'permissions', 'boot')
+('unity', 'grub2', 'permissions', 'windows')
+('unity', 'grub2', 'boot', 'windows')
+('unity', 'permissions', 'boot', 'windows')
+('grub2', 'permissions', 'boot', 'windows')
+set()
+('unity', 'grub2', 'permissions')
+('unity', 'grub2', 'boot')
+('unity', 'grub2', 'windows')
+('unity', 'permissions', 'boot')
+('unity', 'permissions', 'windows')
+('unity', 'boot', 'windows')
+('grub2', 'permissions', 'boot')
+('grub2', 'permissions', 'windows')
+('grub2', 'boot', 'windows')
+('permissions', 'boot', 'windows')
+set()
+('unity', 'grub2')
+('unity', 'permissions')
+('unity', 'boot')
+('unity', 'windows')
+('grub2', 'permissions')
+('grub2', 'boot')
+('grub2', 'windows')
+('permissions', 'boot')
+('permissions', 'windows')
+('boot', 'windows')
+{522246, 516107, 770062, 452631, 370718, 460830, 633895, 649256, 629803, 177196, 703534, 636980, 333877, 828471, 725048, 592955, 349243, 307261, 555069, 742461, 736317, 128066, 430147, 820292, 155717, 159819, 739404, 843854, 232526, 662610, 17493, 931929, 755802, 313435, 858202, 653402, 728155, 843871, 755808, 154722, 558180, 244844, 597101, 521327, 339068, 375936, 332935, 776328, 551053, 657550, 594061, 138385, 180375, 413848, 394391, 719002, 465052, 294045, 370846, 862368, 738466, 336037, 22698, 325805, 920754, 442549, 342198, 475322, 350400, 449729, 822482, 680148, 231637, 321749, 202966, 424151, 736469, 816342, 324824, 316638, 370912, 267488, 576737, 693475, 654568, 271593, 663786, 314602, 412907, 797932, 643310, 148718, 687348, 483574, 270591, 633088, 465153, 160004, 124164, 226569, 627980, 448782, 657679, 223504, 120082, 151830, 16663, 689438, 253217, 258339, 633124, 417061, 701735, 84265, 661805, 91437, 388397, 799025, 638263, 723263, 667967, 571712, 275776, 685379, 405833, 229708, 830801, 942420, 825686, 235862, 83286, 503126, 177496, 666970, 572771, 506216, 371049, 480619, 595308, 145773, 245099, 186736, 540016, 462199, 320890, 161151, 81283, 371078, 544140, 179596, 758161, 142740, 205207, 913815, 752023, 888216, 828825, 333213, 45470, 350628, 657832, 711084, 619948, 236976, 514483, 747956, 822708, 323003, 719299, 258501, 593350, 266696, 697803, 756174, 917970, 247250, 282068, 472532, 623073, 504289, 181729, 488934, 656876, 833006, 920047, 282098, 170483, 97780, 607736, 552441, 536059, 120317, 923136, 378369, 388609, 800261, 659976, 222730, 365067, 508430, 576015, 555534, 636435, 207380, 609817, 112156, 833054, 35359, 802339, 824871, 560683, 349740, 908844, 371248, 742960, 329274, 338491, 144961, 772680, 905802, 732747, 791119, 840278, 582231, 408150, 497239, 50777, 721501, 751197, 667233, 610914, 906849, 645732, 485989, 327265, 381543, 511589, 98922, 696939, 344688, 581233, 474737, 418420, 378484, 385655, 83575, 503418, 201340, 749181, 283262, 634496, 380544, 586374, 624263, 815754, 134794, 744076, 723598, 601743, 501394, 919189, 593560, 651929, 300697, 236189, 544414, 328351, 221863, 662183, 858791, 679591, 872110, 452271, 801458, 386745, 420539, 825019, 873149, 516800, 357057, 519874, 360130, 941763, 745156, 762568, 866000, 144081, 342737, 207571, 536279, 710360, 779996, 721632, 194274, 645860, 522981, 512742, 538341, 613100, 872173, 92910, 845558, 824055, 262904, 633592, 311032, 233211, 215805, 781054, 332542, 389888, 538367, 814851, 633604, 400141, 575245, 243472, 481057, 452387, 790313, 553775, 217904, 642867, 74549, 599864, 386877, 222015, 481088, 674627, 381768, 296779, 753486, 751442, 235350, 574295, 108375, 297825, 285538, 694114, 122723, 462694, 846695, 350054, 486250, 408426, 481138, 580469, 599925, 223096, 381818, 595834, 515969, 558978, 245634, 458627, 718725, 225160, 579464, 186250, 703373, 713615, 229266, 660376, 385945, 575395, 164775, 566185, 869293, 626608, 336817, 815027, 484277, 709557, 234422, 380854, 327607, 331704, 487355, 104379, 617409, 1986, 785347, 553924, 875464, 375752, 293834, 288713, 746444, 484301, 349133, 811984, 717777, 905171, 597974, 435160, 617433, 450525, 844766, 590815, 693214, 398305, 229343, 848871, 546791, 344042, 604139, 758769, 900081, 478196, 879605, 711669, 629750, 268276, 598006, 345082, 544761, 163835, 552957}
+ANSWER cleaned: installed linux want remove install window insert dvd window 7 format full hard disk remove ubuntu install window 7 o installed recomend use osuninstaller need boot live cd ubuntu install osuninstaller remove o want delete case ubuntu
+ANSWER raw: if you have installed linux only and want to remove it to install windows:
+
+insert the dvd of windows 7 and format the full hard disk to remove ubuntu and install windows 7
+
+if you have both os installed i recomend you to use os-uninstaller
+
+you just need to boot from a live cd with ubuntu, install os-uninstaller and then remove the os you want to delete (in this case ubuntu)
+
+
+Probablity: {"probability": "0.407357"}

@@ -8,7 +8,7 @@ __pycache__/
 *.lock
 # C extensions
 *.so
-
+log.txt
 # Distribution / packaging
 .Python
 build/
