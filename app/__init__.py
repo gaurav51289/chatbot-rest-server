@@ -137,7 +137,6 @@ def create_app():
             question = str(request.data.get('question'))
             if question:
                 print("QUESTION: " + question)
-                versions = ["16.04", "16.10", "14.04", "14.10", "12.10", "12.04.5"]
                 que_cats = getCategories(cleanText(question))
                 candidate_qids = getCandidateQids(que_cats)
                 if candidate_qids is None or len(candidate_qids)<2:
